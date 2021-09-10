@@ -6,7 +6,7 @@
 
 `SEMESTRE: 2º`
 
-Sistema Web desenvolvido para ajudar pessoas que sofrem de depressão, ansiedade e/ou dependência emocional a partir de playlists. Constituído por playlists de músicas, podcasts, vídeos e audionooks para maior entendimento, aceitação e orientação sobre os temas abordados gerando apoio aos usuários.
+Sistema Web desenvolvido para ajudar, a partir de playlists, pessoas que sofrem de depressão, ansiedade e/ou dependência emocional. Constituído por playlists de músicas, podcasts, vídeos e audionooks para maior entendimento, aceitação e orientação sobre os temas abordados gerando apoio aos usuários.
 
 ## Integrantes
 
