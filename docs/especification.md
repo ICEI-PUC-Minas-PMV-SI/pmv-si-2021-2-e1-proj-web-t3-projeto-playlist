@@ -14,6 +14,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 04.Adriana, 22 anos, estudante de farmácia, moradora de Contagem-MG, conheceu seu namorado André em uma festa da faculdade. Desde o início o namoro é conturbado, e André diz que é por culpa dela, que é muito ciumenta. Adriana tenta argumentar em contrário, mas André diz que ele sempre está certo e ela errada.  André mente constantemente para ela, sai com amigos sem dar satisfação, além de se relacionar com outras moças. Adriana tem André como um troféu que ela conquistou e não quer perder, ela diz que ele é tudo o que ela quer e precisa, e certa de que ama demais, se doa ao máximo a esse relacionamento frio e que só traz insegurança. Sentindo-se esgotada, Adriana resolve conversar com pessoas e buscar informações sobre o porquê de não conseguir terminar esse relacionamento.
 
+05.Luciana, 29 anos, solteira, jornalista, é funcionária pública no Ministério da Economia em Brasília. Sozinha na capital federal,  fazendo novas amizades, conhece Marcos e começam um namoro. Fragilizada de um término de namoro traumático, dessa vez acredita estar no caminho certo, mas após dois anos Marcos termina o relacionamento sem muitas justificativas, deixando Luciana arrasada. Longe da família e amigos, se sentindo desprezada e humilhada, Luciana  não tem vontade de sair de casa, está irritadiça no trabalho, não se alimenta direito, sofre com insônia e não sente estímulo para viver. Ela sabe que precisa de ajuda, mas não tem ideia de onde buscar.
 
 
 ## Histórias de Usuários
