@@ -8,7 +8,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 01.Ana, 17 anos, estudante e atleta de ginástica rítmica desportiva, tem uma vida corrida entre dedicar-se aos estudos e ao esporte. Seus pais sempre a incentivaram na prática esportiva, mas Ana quer mesmo é cantar. Com receio de decepcionar as expectativas de seus pais, Ana aceita seguir na prática da ginástica, que exige muita dedicação e responsabilidade. Após muitos anos realizando as atividades esportivas sem gostar, e com medo de falhar nas apresentações, Ana está roendo as unhas, tem dificuldade para dormir, e antes das provas da ginástica sente um aperto no peito e algumas vezes tremores, o que vem atrapalhando sua performance e gerando preocupação em seus pais. Ana percebe que seus sintomas estão piorando e ela precisa entender melhor o que se passa para poder falar sobre o assunto com seus pais.
 
-
+02.Breno, 45 anos, casado, analista de sistemas, está trabalhando em home office devido à pandemia do coronavírus. Breno está muito inseguro com a pandemia e se sente aliviado de estar em casa. Após meses trabalhando em casa, fazendo compras via internet e sem sair para qualquer lugar, está se sentindo nervoso, agitado e dorme mal. A vacinação já iniciou e ele ainda segue muito agitado, o medo o domina. Com a retomada de algum trabalho presencial, é escalado para uma viagem, e a caminho do aeroporto está muito preocupado de como será a viagem, dos riscos, começa a suar, tem sensações de angústia, falta de ar e taquicardia. Ao chegar no portão de embarque sofre um desmaio. Ao recobrar os sentidos e ter noção dos acontecimentos, começa a pensar em como procurar ajuda.
 
 ## Histórias de Usuários
 
