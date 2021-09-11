@@ -12,6 +12,10 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 03.Nelita, 64 anos, casada, é uma senhora que passou grande parte de sua vida zelando exclusivamente por sua família e sua casa. Muito apegada, sempre deixa claro para os filhos que eles são a razão da vida dela e que ela precisa deles para respirar, o que ela entende como uma declaração de amor. Com os filhos em casa, sua vida é completa. No entanto,os três filhos são casados e ela não se sente nada confortável com essa situação. Por várias vezes fica chorando de saudade dos filhos até mesmo chegando a se sentir mal; tem  muitas noites de insônia e pensamentos ruins. Ela mantém as portas dos antigos quartos dos filhos fechadas e assim pensa que estão lá dormindo e também anseia pela chegada do final de semana, quando ela fantasia que eles não são casados e estão apenas passeando. Como tentativa de vencer a dificuldade que está vivendo, ela interfere na rotina diária de seus filhos e noras, o que causa muito estresse a todos e afasta ainda mais seus filhos de si. Sem conseguir falar com seus filhos, só assim está percebendo de que há algo de errado com seus sentimentos e que ela precisa de suporte psicológico.
 
+04.Adriana, 22 anos, estudante de farmácia, moradora de Contagem-MG, conheceu seu namorado André em uma festa da faculdade. Desde o início o namoro é conturbado, e André diz que é por culpa dela, que é muito ciumenta. Adriana tenta argumentar em contrário, mas André diz que ele sempre está certo e ela errada.  André mente constantemente para ela, sai com amigos sem dar satisfação, além de se relacionar com outras moças. Adriana tem André como um troféu que ela conquistou e não quer perder, ela diz que ele é tudo o que ela quer e precisa, e certa de que ama demais, se doa ao máximo a esse relacionamento frio e que só traz insegurança. Sentindo-se esgotada, Adriana resolve conversar com pessoas e buscar informações sobre o porquê de não conseguir terminar esse relacionamento.
+
+
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
