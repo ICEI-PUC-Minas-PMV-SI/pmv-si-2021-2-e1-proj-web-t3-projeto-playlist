@@ -1,4 +1,4 @@
-# Título do Projeto
+# Playlist de autoajuda
 
 `CURSO: Sistemas de Informação`
 
@@ -6,19 +6,20 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Sistema Web desenvolvido para ajudar, por meio de playlists, pessoas que sofrem de depressão, ansiedade e/ou dependência emocional. Contendo recomendação de playlists musicais, de podcasts, vídeos e audionooks gerando maior entendimento, aceitação e orientação sobre os temas abordados dando apoio aos usuários.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Ana Laura Souza Rosa Da Silva
+* Ana Luiza Fontana Vicente
+* Davi Rocha Castro
+* Fábio Rezende Dias Silva
+* Leonardo Mateus Santos Da Cunha
+* Rafael de Souza
 
 ## Orientador
 
-* Nome completo do professor 1
+* Ivre Marjorie Ribeiro Machado
 
 # Planejamento
 
