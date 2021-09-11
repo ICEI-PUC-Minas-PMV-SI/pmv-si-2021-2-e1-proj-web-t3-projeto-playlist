@@ -16,6 +16,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 05.Luciana, 29 anos, solteira, jornalista, é funcionária pública no Ministério da Economia em Brasília. Sozinha na capital federal,  fazendo novas amizades, conhece Marcos e começam um namoro. Fragilizada de um término de namoro traumático, dessa vez acredita estar no caminho certo, mas após dois anos Marcos termina o relacionamento sem muitas justificativas, deixando Luciana arrasada. Longe da família e amigos, se sentindo desprezada e humilhada, Luciana  não tem vontade de sair de casa, está irritadiça no trabalho, não se alimenta direito, sofre com insônia e não sente estímulo para viver. Ela sabe que precisa de ajuda, mas não tem ideia de onde buscar.
 
+06.Helena, 70 anos, viúva, moradora da cidade de São Paulo, ex-professora universitária, está muito cansada e desmotivada, sem causa aparente. Ela acha que é  o cansaço de afazeres diários, mas o tempo está passando e já são muitas as noites de insônia, os alimentos já não têm mais sabor; a higiene pessoal está em segundo plano, a aula de dança está abandonada e ela não abre mais as cortinas da casa, além de não responder mensagens da família e amigos. Isolada do convívio social, com pensamentos de que a vida já não tem sentido, e sem sair de casa. Seus filhos estão preocupados e a orientam a usar a internet e pesquisar sobre o que está sentindo, para entender melhor o que se passa e procurar ajuda profissional.
 
 ## Histórias de Usuários
 
