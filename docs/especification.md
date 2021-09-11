@@ -6,19 +6,9 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+01.Ana, 17 anos, estudante e atleta de ginástica rítmica desportiva, tem uma vida corrida entre dedicar-se aos estudos e ao esporte. Seus pais sempre a incentivaram na prática esportiva, mas Ana quer mesmo é cantar. Com receio de decepcionar as expectativas de seus pais, Ana aceita seguir na prática da ginástica, que exige muita dedicação e responsabilidade. Após muitos anos realizando as atividades esportivas sem gostar, e com medo de falhar nas apresentações, Ana está roendo as unhas, tem dificuldade para dormir, e antes das provas da ginástica sente um aperto no peito e algumas vezes tremores, o que vem atrapalhando sua performance e gerando preocupação em seus pais. Ana percebe que seus sintomas estão piorando e ela precisa entender melhor o que se passa para poder falar sobre o assunto com seus pais.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
