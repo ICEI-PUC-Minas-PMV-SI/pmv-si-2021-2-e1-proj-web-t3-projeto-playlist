@@ -18,6 +18,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 06.Helena, 70 anos, viúva, moradora da cidade de São Paulo, ex-professora universitária, está muito cansada e desmotivada, sem causa aparente. Ela acha que é  o cansaço de afazeres diários, mas o tempo está passando e já são muitas as noites de insônia, os alimentos já não têm mais sabor; a higiene pessoal está em segundo plano, a aula de dança está abandonada e ela não abre mais as cortinas da casa, além de não responder mensagens da família e amigos. Isolada do convívio social, com pensamentos de que a vida já não tem sentido, e sem sair de casa. Seus filhos estão preocupados e a orientam a usar a internet e pesquisar sobre o que está sentindo, para entender melhor o que se passa e procurar ajuda profissional.
 
+07.Érika, 38 anos, casada, psicóloga, está preocupada com o aumento de casos de depressão e ansiedade e acha muito interessante a ideia de ter seus conteúdos de podcasts e vídeos disponibilizados não só para seus pacientes como também para o público em geral que possa precisar dessa ajuda, e entende que uma plataforma que direcione o público para seus conteúdos será o ideal.
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
