@@ -20,6 +20,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 07.Érika, 38 anos, casada, psicóloga, está preocupada com o aumento de casos de depressão e ansiedade e acha muito interessante a ideia de ter seus conteúdos de podcasts e vídeos disponibilizados não só para seus pacientes como também para o público em geral que possa precisar dessa ajuda, e entende que uma plataforma que direcione o público para seus conteúdos será o ideal.
 
+08.Paulo César, 43 anos, casado com Érika, eles possuem uma clínica juntos. Ele se interessa não só em ter seus conteúdos de audiobooks e músicas direcionados pela plataforma que sua esposa propõe, como também em patrocinar a criação dessa plataforma.
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
