@@ -22,16 +22,42 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 08.Paulo César, 43 anos, psiquiatra, casado com Érika, eles possuem uma clínica juntos. Ele se interessa não só em ter seus conteúdos de audiobooks e músicas direcionados pela plataforma que sua esposa propõe, como também em patrocinar a criação dessa plataforma.
 
-## Histórias de Usuários
+## Histórias de Usuários 
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+### Como Ana:
+* Eu quero compreender melhor os sintomas e emoções que venho sentindo.
+* Para poder conversar e pdeir ajuda aos meus pais.
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+### Como Breno:
+* Eu quero ter um contato rotineiro com conteúdos relacionados a ansiedade.
+* Para que eu possa ir melhorando aos poucos meus medos e preocupações.
+
+### Como Nelita:
+* Eu quero ter controle dos meus sentimentos e impulsos.
+* Para me sentir menos carente e respeitar os espaços que meus filhos necessitam.
+
+### Como Adriana:
+* Eu quero ter forças para realizar mudanças no meu convívio interpessoal e me valorizar mais.
+* Para que eu possa voltar a me valorizar e escolher o que agrega ou não a minha vida.
+
+### Como Luciana:
+* Eu quero iniciar algum tratamento para a minha situação.
+* Para poder ter contato com conteúdos e profissionais capazes de propor auxílio na reconstrução de autoestima e confiança.
+
+### Como Helena:
+* Eu quero esclarecer os motivos pelos quais me sinto deprimida e sem estímulos.
+* Para que eu possa buscar ajuda profissional e voltar a estimar a vida e me sentir bem novamente.
+
+### Como Érika:
+* Eu quero disponibilizar conteúdos e materiais em sistemas especializados.
+* Para que eu possa agregar e disseminar ajuda a quem necessita.
+
+### Como Paulo César:
+* Eu quero disponibilizar contéudos, além de, patrocinar a criação de um sistema dedicado a causa.
+* Para agregar, disseminar e incentivar ajuda a quem necessita. 
+
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
