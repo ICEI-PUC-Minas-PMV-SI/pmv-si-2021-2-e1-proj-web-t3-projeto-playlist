@@ -34,13 +34,11 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+ Levando em conta nosso tema que é playlists de auto ajuda, iremos confeccionar conteúdos com playlists, músicas, recomendações a partir de links do youtube, audiobooks e podcasts.
+ Objetivo é produzir e atender todas as pessoas que buscam ajuda terapêutica de forma independente, autônoma e pratica dos seguintes diagnósticos; depressão, ansiedade e ou dependência emocional.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders. 
+Analisando os contextos com abordagem de terapeutas, afim de garantir conteúdos de qualidade com entrevistas , analises de psicodiagnósticos, opiniões e breves reflexões a partir de fatores de contexto psicossociais com a intenção de contribuir com a saúde mental e  autoconhecimento de forma curativa, utilizando uma didática alternativa, agradável e atual queremos afetar  de forma única e subjetiva nosso público alvo.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Contudo o publico alvo que podemos atrair a partir do assunto proposto serão psicólogos com varias linhas de abordagem para discussão e produção do conteúdo e todas as pessoas que se interessam pelo tema, afim de agregar conhecimento ou melhorar a convivência com pessoas que convivem com estes transtornos podendo conduzir participações e auxiliar a partir da nossa plataforma um “conviver “proporcionando ambientes saudáveis com práticas empáticas e respeitosas em todos os relacionamentos nos âmbitos profissionais, familiar, educacional e afins, para quem sofre com os transtornos e para quem convive e se relaciona em todos os contextos sociais.
+
+Sendo assim podemos considerar que a plataforma será uma das ferramentas para o auxílio tratamento das pessoas que sofrem com depressão, ansiedade e ou dependência emocional independentemente da idade, gênero, etnia e classe social de forma terapêutica, natural e orgânica. Nossa plataforma será condutora de mudanças de pensamento, hábitos e comportamentos. Queremos que os ouvintes possam se perceber, se reconhecer, se permitir se perdoar e se amar a partir dos conteúdos produzidos. 
