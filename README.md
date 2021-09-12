@@ -4,7 +4,7 @@
 
 `DISCIPLINA: Projeto - Aplicações Web`
 
-`SEMESTRE: 1º`
+`SEMESTRE: 2º`
 
 Sistema Web desenvolvido para ajudar, por meio de playlists, pessoas que sofrem de depressão, ansiedade e/ou dependência emocional. Contendo recomendação de playlists musicais, de podcasts, vídeos e audiobooks gerando maior entendimento, aceitação e orientação sobre os temas abordados dando apoio aos usuários.
 
