@@ -22,7 +22,7 @@ Criar um sistema, Web, onde as pessoas poderão consultar conteúdos áudio-visu
 ***
 Objetivos Específicos:
 
-* Incentivar nos meios de tratamento e auxílio das doenças citadas acima;
+* Incentivar os meios de tratamento das doenças citadas acima;
 * Trazer investidores com o intuito de impulsionar o crescimento da plataforma e alcance populacional;
 
 ## Justificativa
