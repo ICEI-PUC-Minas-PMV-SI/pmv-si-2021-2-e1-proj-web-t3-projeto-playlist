@@ -24,11 +24,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Histórias de Usuários 
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 ### Como Ana:
 * Eu quero compreender melhor os sintomas e emoções que venho sentindo.
-* Para poder conversar e pdeir ajuda aos meus pais.
+* Para poder conversar e pedir ajuda aos meus pais.
 
 ### Como Breno:
 * Eu quero ter um contato rotineiro com conteúdos relacionados a ansiedade.
@@ -39,7 +39,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 * Para me sentir menos carente e respeitar os espaços que meus filhos necessitam.
 
 ### Como Adriana:
-* Eu quero ter forças para realizar mudanças no meu convívio interpessoal e me valorizar mais.
+* Eu quero ter forças para realizar mudanças nas minhas relações íntimas.
 * Para que eu possa voltar a me valorizar e escolher o que agrega ou não a minha vida.
 
 ### Como Luciana:
@@ -51,7 +51,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 * Para que eu possa buscar ajuda profissional e voltar a estimar a vida e me sentir bem novamente.
 
 ### Como Érika:
-* Eu quero disponibilizar conteúdos e materiais em sistemas especializados.
+* Eu quero disponibilizar conteúdos e materiais em locais especializados.
 * Para que eu possa agregar e disseminar ajuda a quem necessita.
 
 ### Como Paulo César:
