@@ -3,16 +3,15 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+* De acordo com dados retirados da organização mundial da saúde (OMS) acredita-se que mais de 322 milhões de pessoas possuem depressão. Cerca de 11 milhoes somente no Brasil. Acreditasse que ate em 2030 a doença será a mais comum no mundo.
+A depressão é uma doença psíquica que tem como característica o sentimento de se perde de si mesmo. Fruto de uma complexa relação entre diversos fatores sociais, psicológicos e biológicos. Trazendo como um marcante sintoma uam sensação incapacitante. Pensamentos de culpa, tristeza, baixa autoestima podem ser sintomas. Fisicamente, podemos indentificar o cansaço, sentimentos extermos e mudanças na rotina de sono e apetite.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+* A ansiedade e os trantornos de ansiedade são um conjunto de doenças psiquiatricas marcadas pela preocupação escessiva ou o constante pressentimento de que algo negativo vai acontecer. Durante as crises as pessoas nao conseguem se manter no presente e sentem uam grande tensão, muitas das vezes sem motivo aparente. Podendo manifestar diversos sintomas físicos como sudorese e arritmia cardíaca. Acreditasse que aproximadamente 260 milhões de indivíduos vivem com trantorno de ansiedade no planeta. No Brasil, atingem 9,3% da população, fazendo o país o lider no ranking mundial.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+* A Dependência Emocional é uma dependência afetiva que ocorre em relacionamento interpessoais (amorosos, familiares, amizades). São pessoas com dificuldade de viver bem sem essa figura de dependência ao seu lado. É depositada no outro a expectativa de preencher o vazio, buscando uma completudo. Alguns sintomas característicos são: dificuldade em negar, por medo da reação da outra parte; falta de interesse por outras amozades ou relacionamentos; e incapacidade de criar planos que não envolva essa pessoa.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+***
+Diante desse cenario apresentado anteriormente torna-se crucial o alcance a todas as pessoas que sofrem de algum destes fatores, onde as quais consigam encontrar uma forma de ajuda. 
 
 ## Objetivos
 
