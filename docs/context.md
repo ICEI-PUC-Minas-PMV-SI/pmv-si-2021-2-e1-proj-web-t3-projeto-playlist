@@ -27,12 +27,13 @@ Objetivos Específicos:
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+ Segundo a Organização Mundial da Saúde (OMS),pelo menos 9% da população brasileira,aproximadamente 18,6 milhões de pessoas,
+sofrem com algum problema psicológico. Baseado nessa realidade, surgiu-se a ideia da criação de um sistema web, 
+por intermédio de playlists, tornando-se uma forma de rede de apoio psicológico para esses usuários.
+O projeto Sistema de Playlist, possui como objetivo, ser uma ferramenta de auto ajuda, que utiliza a tecnologia para amparar e 
+auxiliar indivíduos que vivenciam a depressão, a ansiedade e / ou a dependência emocional. Somado a isso, tornar-se uma forma de 
+orientação e apoio,por meio de vídeos,músicas e podcasts, provovendo assim,uma maior aceitação da sua realidade e melhoria da sua
+saúde mental. 
 
 ## Público-Alvo
 
