@@ -34,11 +34,7 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
- Levando em conta nosso tema que é playlists de auto ajuda, iremos confeccionar conteúdos com playlists, músicas, recomendações a partir de links do youtube, audiobooks e podcasts.
- Objetivo é produzir e atender todas as pessoas que buscam ajuda terapêutica de forma independente, autônoma e pratica dos seguintes diagnósticos; depressão, ansiedade e ou dependência emocional.
+O público Alvo será voltado às pessoas que buscam auxílio no tratamento de doenças psicológicas;
 
-Analisando os contextos com abordagem de terapeutas, afim de garantir conteúdos de qualidade com entrevistas , analises de psicodiagnósticos, opiniões e breves reflexões a partir de fatores de contexto psicossociais com a intenção de contribuir com a saúde mental e  autoconhecimento de forma curativa, utilizando uma didática alternativa, agradável e atual queremos afetar  de forma única e subjetiva nosso público alvo.
+Quaisquer Gêneros são bem vindos para conhecer a plataforma, Pessoas de qualquer classe social fazem parte do nosso público alvo, profissionais na área da psicologia que buscam onde publicar conteúdo, Pessoas que possuem hábitos depressivos, Colaboradores que acreditam em um trabalho didático alterativo neste contexto, faixa etária a partir dos 13 anos de idade.
 
-Contudo o publico alvo que podemos atrair a partir do assunto proposto serão psicólogos com varias linhas de abordagem para discussão e produção do conteúdo e todas as pessoas que se interessam pelo tema, afim de agregar conhecimento ou melhorar a convivência com pessoas que convivem com estes transtornos podendo conduzir participações e auxiliar a partir da nossa plataforma um “conviver “proporcionando ambientes saudáveis com práticas empáticas e respeitosas em todos os relacionamentos nos âmbitos profissionais, familiar, educacional e afins, para quem sofre com os transtornos e para quem convive e se relaciona em todos os contextos sociais.
-
-Sendo assim podemos considerar que a plataforma será uma das ferramentas para o auxílio tratamento das pessoas que sofrem com depressão, ansiedade e ou dependência emocional independentemente da idade, gênero, etnia e classe social de forma terapêutica, natural e orgânica. Nossa plataforma será condutora de mudanças de pensamento, hábitos e comportamentos. Queremos que os ouvintes possam se perceber, se reconhecer, se permitir se perdoar e se amar a partir dos conteúdos produzidos. 
