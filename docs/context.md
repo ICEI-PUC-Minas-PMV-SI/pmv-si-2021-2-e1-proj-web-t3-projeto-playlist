@@ -24,6 +24,7 @@ Objetivos Específicos:
 
 * Incentivar os meios de tratamento das doenças citadas acima;
 * Trazer investidores com o intuito de impulsionar o crescimento da plataforma e alcance populacional;
+* Permitir o compartilhamento de conteúdos de profissionais da área;
 
 ## Justificativa
 
