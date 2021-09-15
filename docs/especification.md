@@ -41,9 +41,9 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 * Como usuário geral, quero ter contato com os materiais por indentificação dos sintomas.
 * Como usuário geral, tenho o objetivo de compartilhar as playlists com pessoas próximas a mim que podem se beneficar.
 
-### Como Administrador/Proprietário:
-* Como proprietário, quero auxiliar na propagação e orientação sobre os transtornos abordados.
-* Como proprietário, gostaria de atrair capital, a partir de investidores, para fins de evoluções constantes do sistema e alcance otimizado de usuários e criadores de conteúdo.
+### Como Administrador:
+* Como administrador, quero auxiliar na propagação e orientação sobre os transtornos abordados.
+* Como administrador, gostaria de atrair capital, a partir de investidores, para fins de evoluções constantes do sistema e alcance otimizado de usuários e criadores de conteúdo.
 
 ## Requisitos
 
