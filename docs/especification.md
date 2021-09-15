@@ -27,7 +27,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 ### Como patrocinador:
-* Como patrocinador, gostaria de divulgar minha empresa para atrair mais clientes.
+* Como patrocinador, gostaria de divulgar minha marca para atrair mais clientes.
 * Como patrocinador, quero incentivar a causa e ajudar a propagar informações sobre os transtornos.
 
 ### Como profissional:
