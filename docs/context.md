@@ -34,7 +34,6 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-O público Alvo será voltado às pessoas que buscam auxílio no tratamento de doenças psicológicas;
-
-Quaisquer Gêneros são bem vindos para conhecer a plataforma, Pessoas de qualquer classe social fazem parte do nosso público alvo, profissionais na área da psicologia que buscam onde publicar conteúdo, Pessoas que possuem hábitos depressivos, Colaboradores que acreditam em um trabalho didático alterativo neste contexto, faixa etária a partir dos 13 anos de idade.
+O público alvo desse projeto envolve qualquer pessoa que busca informação e orientação a respeito da depressão e da ansiedade, que estão vivenciando ou não essas doenças.
+Pessoas de qualquer gênero, classe social e que saibam utilizar um sistema web podem se beneficiar da plataforma.  Profissionais da área da saúde, em especial psiquiatras e psicólogos que queiram contribuir ou apenas consumir informação.
 
