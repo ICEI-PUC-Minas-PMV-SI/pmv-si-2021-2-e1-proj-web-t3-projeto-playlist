@@ -18,13 +18,12 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 Objetivo Geral:
 
-Criar um sistema, Web, onde as pessoas poderão consultar conteúdos áudio-visuais com o intuito de auxilia-las na tratativa de depressão, ansiedade e dependência emocional. 
+Criar um sistema Web onde as pessoas poderão consultar conteúdos audiovisuais com o intuito de se informarem acerca da depressão e da ansiedade.
 ***
 Objetivos Específicos:
 
-* Incentivar os meios de tratamento das doenças citadas acima;
-* Trazer investidores com o intuito de impulsionar o crescimento da plataforma e alcance populacional;
-* Permitir o compartilhamento de conteúdos de profissionais da área;
+* Atrair investidores de forma a impulsionar o crescimento da plataforma, favorecendo o fluxo de acessos.
+* Permitir divulgação de playlists por profissionais da psiquiatria/psicologia.
 
 ## Justificativa
 
