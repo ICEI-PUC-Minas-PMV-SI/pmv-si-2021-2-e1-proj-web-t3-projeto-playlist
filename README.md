@@ -1,4 +1,4 @@
-# Playlist de autoajuda
+# Playlists de autoajuda
 
 `CURSO: Sistemas de Informação`
 
