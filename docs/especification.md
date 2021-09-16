@@ -96,10 +96,15 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|ID| Restrição                                                                                   |
+|--|---------------------------------------------------------------------------------------------|
+|01| Apenas um idioma - Português                                                                |
+|02| Não pode ser desenvolvido um módulo de backend                                              |
+|03| Restrito a 2 tipos de transtornos                                                           |
+|04| Patrocínio somente de empresas e profissionais da área da saúde                             |
+|05| Remuneração apenas com anúncios                                                             |
+|06| Não faz diagnósticos e nem tratamentos                                                      |
+|07| Conteúdo fornecido somente por profissionais qualificados da área da psiquiatria/psicologia |
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
