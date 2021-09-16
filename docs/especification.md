@@ -107,7 +107,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |07| Conteúdo fornecido somente por profissionais qualificados da área da psiquiatria/psicologia |
 
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
