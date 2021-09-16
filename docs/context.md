@@ -23,7 +23,7 @@ Criar um sistema Web onde as pessoas poderão consultar conteúdos audiovisuais 
 Objetivos Específicos:
 
 * Atrair investidores de forma a impulsionar o crescimento da plataforma, favorecendo o fluxo de acessos.
-* Permitir divulgação de playlists por profissionais da psiquiatria/psicologia.
+* Permitir a divulgação de playlists por profissionais da psiquiatria/psicologia.
 
 ## Justificativa
 
