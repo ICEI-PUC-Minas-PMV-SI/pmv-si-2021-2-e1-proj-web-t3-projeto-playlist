@@ -6,7 +6,7 @@ A depressão é uma doença psíquica caracterizada por uma tristeza persistente
 
 A ansiedade e os transtornos de ansiedade são um conjunto de doenças psíquicas marcadas pela preocupação excessiva e o constante pressentimento de que algo negativo vai acontecer, muitas das vezes sem motivo aparente. Eles podem manifestar diversos sintomas físicos como sudorese excessiva, falta de ar e arritmia cardíaca. 
 
-Diante desses problemas percebemos que é de extrema relevância a criação de um sistema Web que traga ao público (tanto as pessoas que tenham necessidade de entendimento sobre ansiedade e a depressão quanto as que estão lidando com esses transtornos) conteúdos audiovisuais informativos, por meio de playlists, produzidos por profissionais qualificados da área. Esses conteúdos serão totalmente gratuitos e a plataforma contará com apoio de patrocinadores para o seu desenvolvimento e manutenção.
+Diante desses problemas percebemos que é de extrema relevância a criação de um sistema Web que traga ao público (tanto as pessoas que tenham necessidade de entendimento sobre ansiedade e a depressão quanto as que estão lidando com esses transtornos) conteúdos audiovisuais informativos, por meio de playlists, produzidos por profissionais qualificados da área. Esses conteúdos serão totalmente gratuitos e a plataforma contará com o apoio de patrocinadores para o seu desenvolvimento e manutenção.
 
 ## Problema
 
