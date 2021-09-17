@@ -48,8 +48,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Cadastrar links das playlists de músicas | ALTA | 
-|RF-002| Cadastrar links de playlists de podcasts informativos sobre depressão e ansiedade | ALTA | 
-|RF-003| Cadastrar links de playlists de vídeos informativos sobre depressão e ansiedade | ALTA |
+|RF-002| Cadastrar links das playlists de podcasts informativos sobre depressão e ansiedade | ALTA | 
+|RF-003| Cadastrar links das playlists de vídeos informativos sobre depressão e ansiedade | ALTA |
 |RF-004| Permitir que o profissional cadastre seu perfil | MÉDIA |
 |RF-005| Permitir que o profissional cadastre conteúdos | MÉDIA |
 |RF-006| Permitir que o profissional divulgue suas redes sociais | BAIXA |
@@ -60,7 +60,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve conter somente conteúdos informativos ligados à depressão e à ansiedade | ALTA |
-|RNF-002| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-002| O sistema deve ser responsivo para rodar em dispositivos móveis | MÉDIA | 
 |RNF-003| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
 ## Restrições
