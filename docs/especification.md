@@ -1,8 +1,6 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Por intermédio de pesquisas feitas junto a pacientes psiquiátricos, profissionais da área da saúde, familiares e amigos próximos, foi possível identificar grande aceitabilidade e entusiasmo com a criação de uma plataforma Web que aborde assuntos relacionados a transtornos de ansiedade e depressão de forma leve e descontraída. 
 
 ## Personas
 * Ana, 17 anos, estudante e atleta de ginástica rítmica desportiva, tem uma vida corrida entre dedicar-se aos estudos e ao esporte. Seus pais sempre a incentivaram na prática esportiva, mas Ana quer mesmo é cantar. Com receio de decepcionar as expectativas de seus pais, Ana aceita seguir na prática da ginástica, que exige muita dedicação e responsabilidade. Após muitos anos realizando as atividades esportivas sem gostar, e com medo de falhar nas apresentações, Ana está roendo as unhas e tem dificuldade para dormir. Antes das provas da ginástica, sente um aperto no peito e algumas vezes tremores, o que vem atrapalhando sua performance e gerando preocupação em todos à sua volta. Ana percebe que seus sintomas estão piorando e ela precisa entender melhor o que se passa para poder falar sobre o assunto com seus pais.
