@@ -22,7 +22,7 @@ Objetivos Específicos:
  
 Segundo a Organização Mundial da Saúde (OMS), a prevalência da depressão no Brasil é em torno de 5,8% da população e a da ansiedade é de 9,3% da população. Desigualdade social, falta de acesso à saúde e à educação e também a violência são as principais causas da ocorrência desses transtornos nos brasileiros. Somado a isso, temos em curso a pandemia do coronavírus, que pode ser um fator desencadeador de aumento de casos desses sintomas psíquicos.
 
-Baseado nessa realidade, surgiu-nos a ideia da criação de um sistema web de recomendação de playlists audiovisuais para auxiliar indivíduos que vivenciam os transtornos mentais mais comuns como a depressão e ansiedade. As informações serão trazidas por profissionais da área, garantindo um conteúdo de qualidade e de fácil acesso que promova maior conhecimento acerca dessas doenças.
+Baseado nessa realidade, surgiu-nos a ideia da criação de um sistema web de recomendação de playlists audiovisuais para auxiliar indivíduos que vivenciam os transtornos mentais mais comuns como a depressão e a ansiedade. As informações serão trazidas por profissionais da área, garantindo um conteúdo de qualidade e de fácil acesso que promova maior conhecimento acerca dessas doenças.
 
 ## Público-Alvo
 
