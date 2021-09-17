@@ -2,11 +2,11 @@
 
 De acordo com a Organização Mundial da Saúde (OMS), o Brasil é o país que apresenta maior prevalência de depressão na América Latina. É também o país mais ansioso do mundo. Esses transtornos mentais podem ter um efeito negativo em todos os aspectos da vida, incluindo desempenho na escola, produtividade no trabalho, relacionamento com a família e amigos e inserção na comunidade. Eles afetam todos os tipos de pessoas, sem distinção de classe e idade, em todo o mundo. 
 
-A depressão é uma doença psíquica caracterizada por uma tristeza persistente, e é fruto de uma complexa relação entre diversos fatores sociais, psicológicos e biológicos. Como alguns dos sintomas, temos a sensação de incapacidade, pensamentos de culpa, tristeza e baixa autoestima. Fisicamente, podemos identificar o cansaço e mudanças na rotina do sono e do apetite. 
+A depressão é uma doença psíquica caracterizada por uma tristeza persistente, e é fruto de uma complexa relação entre diversos fatores sociais, psicológicos e biológicos. Como alguns dos sintomas, temos a sensação de incapacidade, pensamentos de culpa e baixa autoestima. Fisicamente, podemos identificar o cansaço e mudanças na rotina do sono e do apetite. 
 
 A ansiedade e os transtornos de ansiedade são um conjunto de doenças psíquicas marcadas pela preocupação excessiva e o constante pressentimento de que algo negativo vai acontecer, muitas das vezes sem motivo aparente. Eles podem manifestar diversos sintomas físicos como sudorese excessiva, falta de ar e arritmia cardíaca. 
 
-Diante desses problemas percebemos que é de extrema relevância a criação de um sistema Web que traga ao público (tanto as pessoas que tenham necessidade de entendimento sobre ansiedade e a depressão quanto as que estão lidando com esses transtornos) conteúdos audiovisuais informativos, por meio de playlists, produzidos por profissionais qualificados da área. Esses conteúdos serão totalmente gratuitos e a plataforma contará com o apoio de patrocinadores para o seu desenvolvimento e manutenção.
+Diante desses problemas, percebemos que é de extrema relevância a criação de um sistema Web que traga ao público (tanto as pessoas que tenham necessidade de entendimento sobre ansiedade e depressão quanto as que estão lidando com esses transtornos) conteúdos audiovisuais informativos, por meio de playlists, produzidos por profissionais qualificados da área. Esses conteúdos serão totalmente gratuitos e a plataforma contará com o apoio de patrocinadores para o seu desenvolvimento e manutenção.
 
 ## Problema
 
