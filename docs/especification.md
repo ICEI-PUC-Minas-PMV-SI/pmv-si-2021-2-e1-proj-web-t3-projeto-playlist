@@ -19,37 +19,28 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
-### Como Ana:
-* Eu quero compreender melhor os sintomas e emoções que venho sentindo.
-* Para poder conversar e pedir ajuda aos meus pais.
+### Como patrocinador:
+* Como patrocinador, quero divulgar minha marca para atrair mais clientes.
+* Como patrocinador, quero incentivar a causa e ajudar a propagar informações sobre os transtornos.
 
-### Como Breno:
-* Eu quero ter um contato rotineiro com conteúdos relacionados a ansiedade.
-* Para que eu possa ir melhorando aos poucos meus medos e preocupações.
+### Como profissional da saúde:
+* Como profissional, quero divulgar conteúdos autorais para ganhar reconhecimento profissional e atrair clientes.
+* Como profissional, quero ajudar a causa sem quaisquer expectativas de retorno monetário.
+* Como profissional, quero contribuir compilando conteúdos de outros profissionais da área que eu julgo serem referências no assunto.
 
-### Como Nelita:
-* Eu quero ter controle dos meus sentimentos e impulsos.
-* Para me sentir menos carente e respeitar os espaços que meus filhos necessitam.
+### Como usuário geral:
+* Como usuário geral, quero aprender mais sobre os temas abordados por curiosidade.
+* Como usuário geral, quero visualizar as playlists para fins educacionais.
+* Como usuário geral, quero ter contato com os conteúdos que abordem o que estou sentindo.
+* Como usuário geral, quero compartilhar as playlists com pessoas próximas a mim que possam se beneficiar delas.
 
-### Como Adriana:
-* Eu quero ter forças para realizar mudanças nas minhas relações íntimas.
-* Para que eu possa voltar a me valorizar e escolher o que agrega ou não a minha vida.
+### Como administrador:
+* Como administrador, quero manter o sistema funcional e atualizado.
+* Como administrador, quero proporcionar a cibersegurança da plataforma em tempo integral.
 
-### Como Luciana:
-* Eu quero iniciar algum tratamento para a minha situação.
-* Para poder ter contato com conteúdos e profissionais capazes de propor auxílio na reconstrução de autoestima e confiança.
-
-### Como Helena:
-* Eu quero esclarecer os motivos pelos quais me sinto deprimida e sem estímulos.
-* Para que eu possa buscar ajuda profissional e voltar a estimar a vida e me sentir bem novamente.
-
-### Como Érika:
-* Eu quero disponibilizar conteúdos e materiais em locais especializados.
-* Para que eu possa agregar e disseminar ajuda a quem necessita.
-
-### Como Paulo César:
-* Eu quero disponibilizar contéudos, além de, patrocinar a criação de um sistema dedicado a causa.
-* Para agregar, disseminar e incentivar ajuda a quem necessita. 
+### Como proprietário:
+* Como proprietário, quero atrair capital, a partir de investidores, para alcançar um maior número de usuários e criadores de conteúdo.
+* Como proprietário, quero gerar benefícios para a sociedade.
 
 ## Requisitos
 
