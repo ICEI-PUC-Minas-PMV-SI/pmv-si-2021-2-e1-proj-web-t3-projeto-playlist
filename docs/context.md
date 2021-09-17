@@ -27,13 +27,10 @@ Objetivos Específicos:
 
 ## Justificativa
 
- Segundo a Organização Mundial da Saúde (OMS),pelo menos 9% da população brasileira,aproximadamente 18,6 milhões de pessoas,
-sofrem com algum problema psicológico. Baseado nessa realidade, surgiu-se a ideia da criação de um sistema web, 
-por intermédio de playlists, tornando-se uma forma de rede de apoio psicológico para esses usuários.
-O projeto Sistema de Playlist, possui como objetivo, ser uma ferramenta de auto ajuda, que utiliza a tecnologia para amparar e 
-auxiliar indivíduos que vivenciam a depressão, a ansiedade e / ou a dependência emocional. Somado a isso, tornar-se uma forma de 
-orientação e apoio,por meio de vídeos,músicas e podcasts, provovendo assim,uma maior aceitação da sua realidade e melhoria da sua
-saúde mental. 
+ 
+Segundo a Organização Mundial da Saúde (OMS), a prevalência da depressão no Brasil é em torno de 5,8% da população e a da ansiedade é de 9,3% da população. Desigualdade social, falta de acesso à saúde e à educação e também a violência são as principais causas da ocorrência desses transtornos nos brasileiros. Somado a isso, temos em curso a pandemia do coronavírus, que pode ser um fator desencadeador de aumento de casos desses sintomas psíquicos.
+
+Baseado nessa realidade, surgiu-nos a ideia da criação de um sistema web de recomendação de playlists audiovisuais para auxiliar indivíduos que vivenciam os transtornos mentais mais comuns como a depressão e ansiedade. As informações serão trazidas por profissionais da área, garantindo um conteúdo de qualidade e de fácil acesso que promova maior conhecimento acerca dessas doenças.
 
 ## Público-Alvo
 
