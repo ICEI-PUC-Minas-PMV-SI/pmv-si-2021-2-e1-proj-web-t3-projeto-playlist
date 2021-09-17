@@ -27,23 +27,27 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 ### Como patrocinador:
-* Como patrocinador, gostaria de divulgar minha marca para atrair mais clientes.
+* Como patrocinador, quero divulgar minha marca para atrair mais clientes.
 * Como patrocinador, quero incentivar a causa e ajudar a propagar informações sobre os transtornos.
 
-### Como profissional:
+### Como profissional da saúde:
 * Como profissional, quero divulgar conteúdos autorais para ganhar reconhecimento profissional e atrair clientes.
 * Como profissional, quero ajudar a causa sem quaisquer expectativas de retorno monetário.
-* Como profissional, gostaria de contribuir compilando conteúdos de outros profissionais da área que eu julgo serem referências no assunto.
+* Como profissional, quero contribuir compilando conteúdos de outros profissionais da área que eu julgo serem referências no assunto.
 
 ### Como usuário geral:
-* Como usuário geral, quero aprender mais a fundo sobre os temas abordados por curiosidade.
-* Como usuário geral, gostaria de visualizar as playlists para fins educacionais.
-* Como usuário geral, quero ter contato com os materiais por indentificação dos sintomas.
-* Como usuário geral, tenho o objetivo de compartilhar as playlists com pessoas próximas a mim que podem se beneficar.
+* Como usuário geral, quero aprender mais sobre os temas abordados por curiosidade.
+* Como usuário geral, quero visualizar as playlists para fins educacionais.
+* Como usuário geral, quero ter contato com os conteúdos que abordem o que estou sentindo.
+* Como usuário geral, quero compartilhar as playlists com pessoas próximas a mim que possam se beneficiar delas.
 
-### Como Administrador:
-* Como administrador, quero auxiliar na propagação e orientação sobre os transtornos abordados.
-* Como administrador, gostaria de atrair capital, a partir de investidores, para fins de evoluções constantes do sistema e alcance otimizado de usuários e criadores de conteúdo.
+### Como administrador:
+* Como administrador, quero manter o sistema funcional e atualizado.
+* Como administrador, quero proporcionar a cibersegurança da plataforma em tempo integral.
+
+### Como proprietário:
+* Como proprietário, quero atrair capital, a partir de investidores, para alcançar um maior número de usuários e criadores de conteúdo.
+* Como proprietário, quero gerar benefícios para a sociedade.
 
 ## Requisitos
 
