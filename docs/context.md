@@ -19,12 +19,10 @@ Objetivos Específicos:
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+ 
+Segundo a Organização Mundial da Saúde (OMS), a prevalência da depressão no Brasil é em torno de 5,8% da população e a da ansiedade é de 9,3% da população. Desigualdade social, falta de acesso à saúde e à educação e também a violência são as principais causas da ocorrência desses transtornos nos brasileiros. Somado a isso, temos em curso a pandemia do coronavírus, que pode ser um fator desencadeador de aumento de casos desses sintomas psíquicos.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Baseado nessa realidade, surgiu-nos a ideia da criação de um sistema web de recomendação de playlists audiovisuais para auxiliar indivíduos que vivenciam os transtornos mentais mais comuns como a depressão e ansiedade. As informações serão trazidas por profissionais da área, garantindo um conteúdo de qualidade e de fácil acesso que promova maior conhecimento acerca dessas doenças.
 
 ## Público-Alvo
 
