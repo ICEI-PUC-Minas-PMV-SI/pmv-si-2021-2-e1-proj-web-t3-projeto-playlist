@@ -2,64 +2,93 @@
 <html lang="pt-br">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PlaySafe</title>
-    <link rel="stylesheet" href="style.css" >
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Form de Registro com validações em JS</title>
+  <link rel="stylesheet" href="style original.css">
+
 </head>
 
 <body>
-
-    <header> 
-        <div class="menu"> 
-            <div class="button">
-                <a href="#"> Início </a>
-            </div>
-            <div class="button">
-                <a href="#"> Transtornos </a>
-            </div>
-            <div class="button">
-                <a href="#"> Sobre Nós </a>
-            </div>
-            <div class="button">
-                <a href="#"> Entrar </a>
-            </div>
+  
+  <header id="cabeçalho"> 
+    <div class="menu"> 
+        <div class="button">
+            <a href="#"> Início </a>
         </div>
-    </header>
+        <div class="button">
+            <a href="#"> Transtornos </a>
+        </div>
+        <div class="button">
+            <a href="#"> Sobre Nós </a>
+        </div>
+        <div class="button">
+            <a href="#"> Entrar </a>
+        </div>
+    </div>
+</header>
 
-    <div id="main-container">
-        <h1>Cadastre-se para acessar o sistema</h1>
-        <form id="register-form" action="">
-          <div class="full-box">
-            <label for="email">E-mail</label>
-            <input type="email" name="email" id="email" placeholder="Digite seu e-mail" data-min-length="2" data-email-validate>
-          </div>
-          <div class="half-box spacing">
-              <label for="name">Nome</label>
-              <input type="text" name="name complete" id="name" placeholder="Digite seu nome" data-required data-min-length="3" data-max-length="16">
-          </div>
-          <div class="half-box">
-              <label for="lastname">Profissão</label>
-              <input type="text" name="Profession" id="Profession" placeholder="Digite sua Profissão" data-required data-only-letters>
-          </div>
-          <div class="half-box spacing">
-            <label for="lastname">Senha</label>
-            <input type="password" name="password" id="password" placeholder="Digite sua senha" data-password-validate data-required>
-          </div>
-          <div class="half-box">
-            <label for="passconfirmation">Confirmação de senha</label>
-            <input type="password" name="passconfirmation" id="passwordconfirmation" placeholder="Digite novamente sua senha" data-equal="password">
-          </div>
-          <div>
-            <input type="checkbox" name="agreement" id="agreement">
-            <label for="agreement" id="agreement-label">Eu li e aceito os <a href="#">termos de uso</a></label>
-          </div>
-          <div class="full-box">
-            <input id="btn-submit" type="submit" value="Registrar">
-          </div>
+<br>
+<br>  
+<div id="main-container">
+    <h1>Perfil</h1>
+    <form id="register-form" action="">
+      <div class="Nome">
+        <!--full box  -->
+        <label for="Nome">Nome:</label>
+        <input type="text" name="name" id="Nome" placeholder="Digite seu nome" data-required data-min-length="3"
+          data-max-length="16">
+      
+        </div>
 
+      <!-- half box -->
+      <div class="Profissao">
+        <label for="Porifissao">Profissão:</label>
+        <input type="text" name="Profissao" id="Profissão" placeholder="Digite sua profissão">
+      </div>
+      <!-- Half box spacing -->
+      <div class="Endereço">
+        <label for="lastname">Endereço:</label>
+        <input type="text" name="Endereço" id="Endereço" placeholder="Endereço">
+      </div>
+      <!-- half box -->
+      <div class="Escolaridade">
+        <label for="Site:">Escolaridade:</label>
+        <input type="text" name="Escolaridade" id="Escolaridade" placeholder="Específique sua formação">
+      </div>
 
-</body>
+      <!-- full box -->
+      <div class="Email">
+        <label for="email">E-mail</label>
+        <input type="email" name="Email" id="Email" placeholder="Digite seu e-mail" data-min-length="2"
+          data-email-validate>
+        <div class="full-box">
+          <div class="Site">
+            <label for="Site:">Site:</label>
+            <input type="text" name="Site" id="Site" placeholder="Seu Site">
+          </div>
+       <div class="Sobre">
+        <label for="Nome">Nos conte um pouco sobre você:</label>
+         <textarea name="Sobre" id="Sobre" cols="30" rows="5"></textarea>
+
+       <div class="Site">
+        <label for="Site:">Contato:</label>
+         <input type="text" name="Contato" id="Contato" placeholder="(xx) xxxx-xxxx)">
+              
+       <div class="full-box">
+           <label for="email">E-mail</label>
+                <input type="email" name="email" id="email" placeholder="Digite seu e-mail" data-min-length="2" data-email-validate>
+              </div>
+            
+
+              <input id="btn-submit" type="submit" value="Salvar">
+            </div>
+
+          </div>
+    </form>
+  </div>
+  <p class="error-validation template"></p>
+
 
 </html>
