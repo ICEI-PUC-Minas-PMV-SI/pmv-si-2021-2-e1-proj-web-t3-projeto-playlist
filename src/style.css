@@ -1,3 +1,4 @@
+
 *{
   margin: 0;
   padding: 0;
@@ -89,6 +90,14 @@ flex-wrap: wrap;
 justify-content:baseline;
 }
 
+.Profissão{ 
+
+  /* flex: 1 1 45%; */
+  margin-right: 2.5%;
+  /* height: 20%; */
+
+}
+
 .full-box {
 flex: 1 1 100%;
 position: relative;
@@ -97,7 +106,7 @@ position: relative;
 .Escolaridade {
 flex: 1 1 45%;
 margin-right: 2.5%;
-height: 20%;
+/* height: 20%; */
 }
 
 .site{
@@ -114,10 +123,28 @@ margin-right: 2.5%;
 }
 
 
-.Sobre{
+.Nome{
+  /* flex: 1 1 45%; */
+  margin-right: 2.5%;
+  /* height: 20%; */
+
+}
 
 
+#Sobre{
+border: 1px solid purple;
 
+
+}
+
+.Lado-Esquerdo{
+
+  margin-right: 207px;
+}
+
+.Imagem-Avatar{
+
+  height: 207px;
 }
 
 label {
@@ -130,7 +157,7 @@ border-bottom: 2px solid #323232;
 padding: 10px;
 font-size: .9rem;
 margin-bottom: 40px;
-width: 260px;
+width: 270px;
 
 }
 
@@ -145,6 +172,11 @@ border: none;
 border-radius: 20px;
 height: 40px;
 cursor: pointer;
+position: absolute;
+  bottom: 0;
+  margin-bottom: 0;
+  right: 27%;
+
 }
 
 #agreement {
