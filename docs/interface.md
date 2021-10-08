@@ -28,11 +28,20 @@ Página de Perfil
 Página de músicas
 ![Exemplo de músicas](https://user-images.githubusercontent.com/90011477/136579069-b5e6ed3f-b2dd-4248-b433-7ed4895a5a73.jpeg)
 
-Páginas de Playlists
-()
-()
-()
-()
+Páginas de Playlists:
+
+Página podcasts - Ansiedade
+
+![Exemplo de podcasts a](https://user-images.githubusercontent.com/65237061/136591075-cbff082f-04f6-45ce-bf64-723cfafea573.png)
+
+Página podcasts - Depressão
+![Exemplo de podcasts d](https://user-images.githubusercontent.com/65237061/136591021-0b7b5de2-2d1b-4290-b52b-acaadb9d11d0.png)
+
+Página vídeos - Ansiedade
+![Exemplo de vídeos a](https://user-images.githubusercontent.com/65237061/136590725-0021ea55-5414-46d7-b6cf-919a3c658a88.png)
+
+Página vídeos - Depressão
+![Exemplo de vídeos d](https://user-images.githubusercontent.com/65237061/136590698-547bfb10-8e8d-4994-a7bc-374e122af948.png)
 
 
 
