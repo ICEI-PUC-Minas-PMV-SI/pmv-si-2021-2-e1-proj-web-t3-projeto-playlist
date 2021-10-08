@@ -1,9 +1,7 @@
 
 # Projeto de Interface
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+Nesse projeto levamos em consideração a possibilidade de que os próprios profissionais consigam colocar os conteúdos na página, após se cadastrarem e atenderem aos requisitos para colaborarem com o sistema web. Para isso, usamos uma forma simples de preencherem seus dados e conteúdos, o que pode ser visto nos wireframes. Além do mais, a interface tem de ser atrativa para o usuário, de navegação fácil.
 
 ## User Flow
 
