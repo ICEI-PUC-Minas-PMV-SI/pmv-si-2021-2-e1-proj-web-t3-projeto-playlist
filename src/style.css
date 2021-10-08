@@ -68,7 +68,7 @@ background-size: cover;
 
 /* form */
 #main-container {
-width: 800px;
+width: 900px;
 height: 700px;
 margin-left: auto;
 margin-right: auto;
@@ -82,6 +82,7 @@ padding:23px;
 text-align: center;
 margin-bottom: 25px;
 font-size: 1.6rem;
+margin-bottom: 10px;
 }
 
 form {
@@ -133,18 +134,46 @@ margin-right: 2.5%;
 
 #Sobre{
 border: 1px solid purple;
-
+border-radius: 10px;
 
 }
 
 .Lado-Esquerdo{
+  margin-left: 75px;
+  /* margin-right: 128px; */
+  margin-top: -20px;
+  
+}
 
-  margin-right: 207px;
+.Lado-Direito{
+
+  margin-left: 125px;
+  margin-top: 17px;
+    /* margin-bottom: ; */
+    
 }
 
 .Imagem-Avatar{
 
   height: 207px;
+}
+
+
+.links{
+
+ 
+}
+
+.links{ 
+ 
+  margin-bottom: 30px;
+  border-bottom:none;
+  margin: -32px;
+  margin-top: 13px;
+  margin-left: 0px;
+  padding: 3px;
+  font-size: .9rem;
+  
 }
 
 label {
@@ -156,17 +185,19 @@ input {
 border-bottom: 2px solid #323232;
 padding: 10px;
 font-size: .9rem;
-margin-bottom: 40px;
+margin-bottom: 30px;
 width: 270px;
-
+border: 1px solid black;
+border-radius: 10px;
+/* height: 10; */
 }
 
-input:focus {
+/* input:focus {
 border-color: #E60084;
-}
+} */
 
 input[type="submit"] {
-background-color: #E60084;
+background-color: purple;
 color: #FFF;
 border: none;
 border-radius: 20px;
@@ -175,7 +206,7 @@ cursor: pointer;
 position: absolute;
   bottom: 0;
   margin-bottom: 0;
-  right: 27%;
+  right: 30%;
 
 }
 

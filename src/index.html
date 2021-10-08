@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Form de Registro com validações em JS</title>
-  <link rel="stylesheet" href="style original.css">
+  <title>Perfil PlaySafe</title>
+  <link rel="stylesheet" href="style.css">
 
 </head>
 
@@ -65,33 +65,63 @@
         <div class="Sobre">
           <label for="Sobre">Nos conte um pouco sobre você:</label>
           <textarea name="Sobre" id="Sobre" cols="30" rows="5"> </textarea>
+
+          <div class="Contato">
+            <label for="Contato:">Contato:</label>
+            <input type="text" name="Contato" id="Contato" placeholder="(xx) xxxx-xxxx)">
+          </div>
+          <div class="full-box">
+            <label for="email">E-mail:</label>
+            <input type="email" name="email" id="email" placeholder="Digite seu e-mail" data-email-validate>
+  
+          </div>
         </div>
       </div>
+
+      
       <div class="Lado-Direito">
 
 
-        <div class="Contato">
-          <label for="Contato:">Contato:</label>
-          <input type="text" name="Contato" id="Contato" placeholder="(xx) xxxx-xxxx)">
-        </div>
-        <div class="full-box">
-          <label for="email">E-mail:</label>
-          <input type="email" name="email" id="email" placeholder="Digite seu e-mail" data-email-validate>
-
-        </div>
+        
 
         <div class="Avatar">
           <label for="Avatar">Escolha seu avatar:</label>
-<img class="Imagem-Avatar" src="Pessoas felizes.jpg" alt="Escolha de avatar">
+          <img class="Imagem-Avatar" src="Pessoas felizes.jpg" alt="Escolha de avatar"> 
+
+        
+         </div>
+        
+          <div class="links">
+            <label for="Podcasts-depressao:">Podcasts relacionados à depressão:</label>
+            <input type="text" name="Videos-Ansiedade" placeholder="Insira seu link">
+          </div>
+
+          <div class="links"> <label for="Podcastos-ansiedade:">Vídeos relacionados à ansiedade:</label>
+            <input type="text" name="Escolaridade" id="Escolaridade"  placeholder="Insira seu link"> 
+          </div>
+
+          <div class="links"> <label for="Vídeos-depressao:">Vídeos relacionados à ansiedade:</label>
+            <input type="text" name="Escolaridade" id="Escolaridade"  placeholder="Insira seu link">
+          </div>
+
+          <div class="links"><label for="Escolaridade:">Vídeos relacionados à depressão:</label>
+            <input type="text" name="Escolaridade" id="Escolaridade"  placeholder="Insira seu link">
+
         </div>
+
+
+
+
 
       </div>
 
+  </div>
 
 
 
 
-      <input id="btn-submit" type="submit" value="Salvar">
+
+  <input id="btn-submit" type="submit" value="Salvar">
   </div>
 
   </div>
