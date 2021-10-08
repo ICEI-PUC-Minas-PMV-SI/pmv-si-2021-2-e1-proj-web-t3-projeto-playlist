@@ -12,14 +12,14 @@ Página de login
 Página de perfil
 ![Exemplo de perfil]()
 Página de músicas
-![Exemplo de músicas](https://user-images.githubusercontent.com/90011477/136566909-25c45873-5ac0-4231-829b-693c96abbe23.png)
+![Exemplo de músicas]()
 Páginas de playlists:
 
 Página podcasts - Ansiedade
-![Exemplo de podcasts A](https://user-images.githubusercontent.com/65237061/136542505-6dcb188c-bae0-4193-9bf8-85e73070bb92.png)
+![Exemplo de podcasts A]()
 Página podcasts - Depressão
-![Exemplo de podcasts D](https://user-images.githubusercontent.com/65237061/136542912-4508ac04-613a-4f03-bfb2-08420f2a54e1.png)
+![Exemplo de podcasts D]()
 página vídeos - Ansiedade
-![Exemplo de vídeos A](https://user-images.githubusercontent.com/65237061/136542703-83426993-a1fa-45dc-989c-816a3d809940.png)
+![Exemplo de vídeos A]()
 página vídeos - Depressão
-![Exemplo de vídeos D](https://user-images.githubusercontent.com/65237061/136543198-32e7a9b8-96a0-4e81-be1a-e614df16a55f.png)
+![Exemplo de vídeos D]()
