@@ -1,0 +1,201 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://cdn.discordapp.com/attachments/882760956420194340/893646415669121084/blue-purple-gradient-linear-1920x1080-c2-191970-800080-a-135-f-14.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu {
+    background-color: white;
+    color: purple;
+    justify-content: space-between;
+    border-radius: 20px;
+    display: flex;
+    width: 500px;
+    height: 59px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    padding: 2px 2%;
+}
+
+.menu a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.menu a:hover {
+    transition: .4s;
+    background-color: rgb(53, 43, 117);
+    color: white;
+    display: flex;
+    border-radius: 20px;
+    padding: 20px 20px;
+
+}
+
+.page_title {
+    padding-top: 80px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.professional-profile {
+    background-color: purple;
+    height: 400px;
+    width: 800px;
+    margin: auto;
+    display: table;
+    border-radius: 5px;
+}
+
+.professional-profile2 {
+    background-color: purple;
+    height: 400px;
+    width: 800px;
+    margin: 150px auto;
+    display: table;
+    border-radius: 5px;
+}
+
+.section1 {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+span {
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.roundimg {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-right: 100px;
+}
+
+.name1 {
+    font-size: 35px;
+    padding-right: 70px;
+}
+
+.name2 {
+    font-size: 35px;
+    padding-right: 150px;
+}
+
+.profession {
+    font-size: 25px;
+}
+
+.section2 {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.professional_site {
+    font-size: 15px;
+    color: white;
+    padding-right: 380px;
+}
+
+.playlist_link {
+    font-size: 20px;
+    color: white;
+}
+
+.section3 {
+    padding-top: 35px;
+    padding-left: 20px;
+    font-size: 10px;
+}
+
+.about_me {
+    font-size: 15px;
+    text-align: left;
+    margin: 0 23px 0 5px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.about_me_text {
+    width: 45.5%;
+}
+
+.professional-data {
+    padding-right: 10px;
+}
+
+.fa-phone {
+    padding-right: 5px;
+}
+
+.phone_symbol {
+    width: 20px;
+}
+
+
+.fa-envelope-o {
+    padding-right: 7px;
+}
+
+.rodape {
+    flex-shrink: 0;
+    background-color: white;
+    color: rgb(133, 28, 219);
+    width: 96%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 40px;
+    padding-top: 35px;
+}
+
+.rodape ul {
+    list-style: none;
+    display: flex;
+
+}
+
+.rodape li {
+    margin: 0 auto;
+}
+
+.credito {
+    color: rgb(133, 28, 219);
+}
+
+.credito ul {
+    list-style: none;
+    text-align: center;
+}
+
+.credito a {
+    text-decoration: none;
+    color: rgb(133, 28, 219);
+    padding-inline: 2px;
+
+}
+
+.credito a:hover {
+    color: pink;
+}
+
+h3 {
+    text-align: center;
+}
+
