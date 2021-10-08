@@ -16,10 +16,10 @@ Página de músicas
 Páginas de playlists:
 
 Página podcasts - Ansiedade
-![Exemplo de podcasts A]()
+![Exemplo de podcasts A](https://user-images.githubusercontent.com/65237061/136625275-890c2644-e2c8-4a10-a29f-86ce7bda6403.png)
 Página podcasts - Depressão
-![Exemplo de podcasts D]()
+![Exemplo de podcasts D](https://user-images.githubusercontent.com/65237061/136625319-2a60450c-1290-464b-b39f-ab5d5fef127a.png)
 página vídeos - Ansiedade
-![Exemplo de vídeos A]()
+![Exemplo de vídeos A](https://user-images.githubusercontent.com/65237061/136625292-e6a4bfb3-cc6b-41b7-9014-1f24d7035b65.png)
 página vídeos - Depressão
-![Exemplo de vídeos D]()
+![Exemplo de vídeos D](https://user-images.githubusercontent.com/65237061/136625347-c9692edb-d2d3-4b68-83ef-b9d1e5b4f1b3.png)
