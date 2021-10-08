@@ -13,6 +13,7 @@ Nesse projeto levamos em consideração a possibilidade de que os próprios prof
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
 
 Página inicial
+
 ![Exemplo inicio](https://user-images.githubusercontent.com/89880127/136577346-37095301-7c37-4096-835e-ac266ae45fe4.png)
 
 Página de cadastro
