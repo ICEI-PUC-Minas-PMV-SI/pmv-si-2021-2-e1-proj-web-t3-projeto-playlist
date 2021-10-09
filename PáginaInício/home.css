@@ -2,6 +2,7 @@ html, body {
     height: 100%;
     margin: 0px;
     padding: 0px; 
+    box-sizing: border-box;
 }
 
 body {
@@ -12,6 +13,7 @@ body {
     font-style: normal;
     display: flex;
     flex-direction: column;
+    background-attachment: fixed;
 }
 
     .menu {
@@ -27,28 +29,64 @@ body {
         align-items: center;
         padding: 2px 2%;
     }  
-            .menu a {
-                text-decoration: none;
-                font-size: 20px;
+        .menu a {
+            text-decoration: none;
+            font-size: 20px;
             }
 
-            .menu a:hover {
-                transition: .4s;
-                background-color: rgb(53, 43, 117);
-                color: white;
-                display: flex;
-                border-radius: 20px;
-                padding: 20px 20px;
-                
+        .menu a:hover {
+            transition: .4s;
+            background-color: rgb(53, 43, 117);
+            color: white;
+            display: flex;
+            border-radius: 20px;
+            padding: 20px 20px;  
             } 
-        
 
     .conteudo {
         color: white;
-        flex: 1 0 auto;
+        flex: 1 0 auto;  
     }
-        img {
-            width: 500px;
+
+        .transtornos {
+            text-align: center;
+            padding-top: 350px;
+            padding-bottom: 350px;
+        }
+
+            .ansiedade {
+                padding-bottom: 100px;
+            }
+
+        h2 {
+            text-decoration: overline;
+        }
+
+        .carousel {
+            padding-top: 16px;
+            padding-bottom: 20px;
+        }
+        .carousel-inner {
+            width: 65%;
+            height: 65%;
+            margin-right: auto;
+            margin-left: auto;
+        }
+
+    .paginas {
+        text-align: center;
+        
+    }
+        .paginas button {
+            color: white;
+            text-decoration: none;
+            background-color: purple;
+            padding-inline: 20px;
+            border-radius: 10px;
+        }
+        .paginas button:hover {
+            color: purple;
+            background-color: white;
         }
 
     .rodape {
@@ -58,16 +96,37 @@ body {
         width: 96%;
         margin-left: auto;
         margin-right: auto;
-        text-align: center; 
+        text-align: center;
         border-radius: 40px;
-        
+        padding-top: 35px;
     }
 
         .rodape ul {
             list-style: none;
             display: flex;
+            
         }
-            .rodape li {
-                margin: 0 auto;
+            
+        .rodape li {
+            margin: 0 auto;
             }
 
+            .credito {
+                color: rgb(133, 28, 219);
+            }
+            .credito ul {
+                list-style: none;
+                text-align: center;
+            }
+            .credito a{
+                text-decoration: none;
+                color: rgb(133, 28, 219);
+                padding-inline: 2px;
+
+            }
+            .credito a:hover {
+                color:pink;
+            }
+            h3 {
+              text-align: center;
+            }
