@@ -13,15 +13,12 @@ html, body {
     flex-direction: column;
 }
 
-
 .menu {
     background-color: white;
     color: purple;
     justify-content: space-between;
     border-radius: 20px;
     display: flex;
-    width: 500px;
-    height: 59px;
     margin-left: auto;
     margin-right: auto;
     align-items: center;
@@ -62,6 +59,12 @@ h2 {
     border-radius: 5px;
 }
 
+@media screen and (max-width: 800px) {
+    .professional-profile {
+        margin-left: 10px;
+    }
+}
+
 .professional-profile2 {
     background-color: purple;
     height: 400px;
@@ -69,6 +72,12 @@ h2 {
     margin: 150px auto;
     display: table;
     border-radius: 5px;
+}
+
+@media screen and (max-width: 800px) {
+    .professional-profile2 {
+        margin-left: 10px;
+    }
 }
 
 .section1 {
@@ -81,7 +90,13 @@ span {
     display: table-cell;
 }
 
-.roundimg {
+@media screen and (max-width: 800px) {
+    span {
+        display: block;
+    }
+}
+
+.roundImage {
     border-radius: 50%;
     height: 100px;
     width: 100px;
@@ -131,6 +146,12 @@ span {
     display: flex;
     justify-content: space-between;
 
+}
+
+@media screen and (max-width: 800px) {
+    .about_me {
+        flex-direction: column;
+    }
 }
 
 .about_me_text {
