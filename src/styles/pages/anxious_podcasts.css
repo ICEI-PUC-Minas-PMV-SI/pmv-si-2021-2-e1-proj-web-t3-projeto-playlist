@@ -1,5 +1,6 @@
 html, body {
-    height: 100%;
+    height: auto;
+    width: auto;
     margin: 0;
     padding: 0;
     background-image: url("https://cdn.discordapp.com/attachments/882760956420194340/893646415669121084/blue-purple-gradient-linear-1920x1080-c2-191970-800080-a-135-f-14.jpg");
@@ -11,6 +12,7 @@ html, body {
     color: aliceblue;
     display: flex;
     flex-direction: column;
+    word-wrap: break-word;
 }
 
 .menu {
@@ -50,18 +52,30 @@ h2 {
     text-align: center;
 }
 
+
+.page-content {
+    padding-right: 16px !important;
+    padding-left: 16px !important;
+}
+
 .professional-profile {
     background-color: purple;
     height: 400px;
     width: 800px;
     margin: auto;
-    display: table;
+    display: block;
     border-radius: 5px;
 }
 
 @media screen and (max-width: 800px) {
+    body {
+        overflow-x: hidden
+    }
+
     .professional-profile {
-        margin-left: 10px;
+        box-sizing: border-box;
+        width: auto;
+        height: auto;
     }
 }
 
@@ -70,13 +84,15 @@ h2 {
     height: 400px;
     width: 800px;
     margin: 150px auto;
-    display: table;
+    display: block;
     border-radius: 5px;
 }
 
 @media screen and (max-width: 800px) {
     .professional-profile2 {
-        margin-left: 10px;
+        box-sizing: border-box;
+        width: auto;
+        height: auto;
     }
 }
 
@@ -175,7 +191,7 @@ span {
     padding-right: 7px;
 }
 
-.rodape {
+.footer {
     flex-shrink: 0;
     background-color: white;
     color: rgb(133, 28, 219);
@@ -187,13 +203,13 @@ span {
     padding-top: 35px;
 }
 
-.rodape ul {
+.footer ul {
     list-style: none;
     display: flex;
 
 }
 
-.rodape li {
+.footer li {
     margin: 0 auto;
 }
 
@@ -221,3 +237,39 @@ h3 {
     text-align: center;
 }
 
+@media screen and (max-width: 900px) {
+    .footer {
+        width: auto;
+    }
+
+    .footer ul {
+        font-size: 15px;
+        display: inline-block;
+    }
+
+    h3 {
+        font-size: 20px;
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .footer {
+        width: auto;
+        padding-top: 15px;
+        padding-bottom: 10px;
+    }
+
+    .footer ul {
+        font-size: 15px;
+        display: block;
+    }
+
+    .footer-text {
+        margin-right: 15px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+}
