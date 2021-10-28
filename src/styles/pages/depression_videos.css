@@ -1,0 +1,275 @@
+html, body {
+    height: auto;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://cdn.discordapp.com/attachments/882760956420194340/893646415669121084/blue-purple-gradient-linear-1920x1080-c2-191970-800080-a-135-f-14.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    word-wrap: break-word;
+}
+
+.menu {
+    background-color: white;
+    color: purple;
+    justify-content: space-between;
+    border-radius: 20px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    padding: 2px 2%;
+}
+
+.menu a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.menu a:hover {
+    transition: .4s;
+    background-color: rgb(53, 43, 117);
+    color: white;
+    display: flex;
+    border-radius: 20px;
+    padding: 20px 20px;
+
+}
+
+.page_title {
+    padding-top: 80px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+.page-content {
+    padding-right: 16px !important;
+    padding-left: 16px !important;
+}
+
+.professional-profile {
+    background-color: purple;
+    height: 400px;
+    width: 800px;
+    margin: auto;
+    display: block;
+    border-radius: 5px;
+}
+
+@media screen and (max-width: 833px) {
+    body {
+        overflow-x: hidden
+    }
+
+    .professional-profile {
+        box-sizing: border-box;
+        width: auto;
+        height: auto;
+    }
+}
+
+.professional-profile2 {
+    background-color: purple;
+    height: 400px;
+    width: 800px;
+    margin: 150px auto;
+    display: block;
+    border-radius: 5px;
+}
+
+@media screen and (max-width: 833px) {
+    .professional-profile2 {
+        box-sizing: border-box;
+        width: auto;
+        height: auto;
+    }
+}
+
+.section1 {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+span {
+    vertical-align: middle;
+    display: table-cell;
+}
+
+@media screen and (max-width: 833px) {
+    span {
+        display: block;
+    }
+}
+
+.roundImage {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-right: 100px;
+}
+
+.name1 {
+    font-size: 35px;
+    padding-right: 70px;
+}
+
+.name2 {
+    font-size: 35px;
+    padding-right: 150px;
+}
+
+.profession {
+    font-size: 25px;
+}
+
+.section2 {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.professional_site {
+    font-size: 15px;
+    color: white;
+    padding-right: 380px;
+}
+
+.playlist_link {
+    font-size: 20px;
+    color: white;
+}
+
+.section3 {
+    padding-top: 35px;
+    padding-left: 20px;
+    font-size: 10px;
+}
+
+.about_me {
+    font-size: 15px;
+    text-align: left;
+    margin: 0 23px 0 5px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+@media screen and (max-width: 833px) {
+    .about_me {
+        flex-direction: column;
+    }
+}
+
+.about_me_text {
+    width: 45.5%;
+}
+
+.professional-data {
+    padding-right: 10px;
+}
+
+.fa-phone {
+    padding-right: 5px;
+}
+
+.phone_symbol {
+    width: 20px;
+}
+
+
+.fa-envelope-o {
+    padding-right: 7px;
+}
+
+.footer {
+    flex-shrink: 0;
+    background-color: white;
+    color: rgb(133, 28, 219);
+    width: 96%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 40px;
+    padding-top: 35px;
+}
+
+.footer ul {
+    list-style: none;
+    display: flex;
+
+}
+
+.footer li {
+    margin: 0 auto;
+}
+
+.credito {
+    color: rgb(133, 28, 219);
+}
+
+.credito ul {
+    list-style: none;
+    text-align: center;
+}
+
+.credito a {
+    text-decoration: none;
+    color: rgb(133, 28, 219);
+    padding-inline: 2px;
+
+}
+
+.credito a:hover {
+    color: pink;
+}
+
+h3 {
+    text-align: center;
+}
+
+@media screen and (max-width: 900px) {
+    .footer {
+        width: auto;
+    }
+
+    .footer ul {
+        font-size: 15px;
+        display: inline-block;
+    }
+
+    h3 {
+        font-size: 20px;
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .footer {
+        width: auto;
+        padding-top: 15px;
+        padding-bottom: 10px;
+    }
+
+    .footer ul {
+        font-size: 15px;
+        display: block;
+    }
+
+    .footer-text {
+        margin-right: 15px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+}
