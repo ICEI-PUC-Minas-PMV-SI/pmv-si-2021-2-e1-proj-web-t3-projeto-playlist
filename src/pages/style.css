@@ -1,0 +1,181 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+  color: #323232;
+  border: none; 
+ }
+
+/* }
+ #cabeçalho {
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  display: flex;
+  flex-direction: column;
+} */
+
+  /* .menu {
+      background-color: white;
+      color: purple;
+      justify-content: space-between;
+      border-radius: 20px;
+      display:flex;
+      width: 500px;
+      height: 59px;
+      margin-left: auto;
+      margin-right: auto;
+      align-items: center;
+      padding: 2px 2%;
+  } */
+          /* .menu a {
+              text-decoration: none;
+              font-size: 20px;
+          } */
+
+          /* .menu a:hover {
+              transition: .4s;
+              background-color: rgb(53, 43, 117);
+              color: white;
+              display: flex;
+              border-radius: 20px;
+              padding: 20px 20px; */
+
+            
+
+input, label {
+display:block;
+outline: none;
+width: 100%;
+
+}
+
+body {
+padding-top: 5vh;
+background-image: url(BluePurple.jpg);
+background-repeat: no-repeat;
+background-size: cover; }
+
+#main-container {
+max-width: 900px;
+height: 700px;
+margin-left: auto;
+margin-right: auto;
+background-color: #FFF;
+border-radius: 30px;
+
+
+}
+
+#main-container h1 {
+text-align: center;
+margin-bottom: 25px;
+font-size: 1.6rem;
+margin-bottom: 10px;
+}
+
+form {
+display: flex;
+flex-wrap: wrap;
+justify-content:baseline; }
+
+.Profissão{ 
+
+  /* flex: 1 1 45%; */
+  margin-right: 2.5%;
+  /* height: 20%; */ }
+
+.Escolaridade {
+flex: 1 1 45%;
+margin-right: 2.5%;
+/* height: 20%; */ }
+
+.Endereço {
+margin-right: 2.5%;
+
+
+}
+
+
+.Nome{
+  /* flex: 1 1 45%; */
+  margin-right: 2.5%;
+  /* height: 20%; */
+
+}
+
+
+#Sobre{
+border: 1px solid purple;
+border-radius: 10px;
+
+}
+
+.Lado-Esquerdo{
+  margin-left: 75px;
+  /* margin-right: 128px; */
+  margin-top: -20px;
+  
+}
+
+.Lado-Direito{
+
+  margin-left: 125px;
+  margin-top: 17px;
+    /* margin-bottom: ; */
+    
+}
+
+.Imagem-Avatar{
+
+  height: 207px;
+}
+
+
+.links{ 
+ 
+  margin-bottom: 30px;
+  border-bottom:none;
+  margin: -32px;
+  margin-top: 13px;
+  margin-left: 0px;
+  padding: 3px;
+  font-size: .9rem;
+  
+}
+
+label {
+font-weight: bold;
+font-size: .8rem;
+}
+
+input {
+border-bottom: 2px solid #323232;
+padding: 10px;
+font-size: .9rem;
+margin-bottom: 30px;
+width: 270px;
+border: 1px solid black;
+border-radius: 10px; }
+
+input[type="submit"] {
+background-color: purple;
+color: #FFF;
+border: none;
+border-radius: 20px;
+height: 40px;
+cursor: pointer;
+ position: all;
+  bottom: 0;
+  margin-bottom: 0;
+  right: 30%;
+}
+
+  @media screen and (max-width: 600px) {
+ *{ min-width: 360px;
+
+ }
+
+  }
