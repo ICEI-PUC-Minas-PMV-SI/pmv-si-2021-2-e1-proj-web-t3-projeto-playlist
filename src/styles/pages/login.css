@@ -115,3 +115,17 @@ input[type="submit"] {
             padding: 20px 20px;
 
         } 
+@media screen and (max-width: 600px) {
+ .menu {
+width: 280px;
+ }   
+ .menu a {
+     font-size: 15px;
+ }
+ .menu a:hover {
+     padding: 22px 12px;
+ }
+ .login-container {
+     width: 280px;
+ }
+}
