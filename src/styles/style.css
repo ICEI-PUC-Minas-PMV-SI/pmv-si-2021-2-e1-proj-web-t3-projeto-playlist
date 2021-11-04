@@ -4,19 +4,19 @@
   box-sizing: border-box;
   font-family: Helvetica, sans-serif;
   color: #323232;
-  border: none; 
-  background-attachment: fixed;
- }
+  border: none;
 
-/* }
- #cabeçalho {
+}
+#cabeçalho {
+  
   background-size: cover;
   background-repeat: no-repeat;
   font-family: Arial, Helvetica, sans-serif;
   font-style: normal;
   display: flex;
   flex-direction: column;
-} */
+  background-attachment: fixed;
+}
 
   /* .menu {
       background-color: white;
@@ -30,45 +30,48 @@
       margin-right: auto;
       align-items: center;
       padding: 2px 2%;
-  } */
-          /* .menu a {
+  }
+          .menu a {
               text-decoration: none;
               font-size: 20px;
-          } */
+          }
 
-          /* .menu a:hover {
+          .menu a:hover {
               transition: .4s;
               background-color: rgb(53, 43, 117);
               color: white;
               display: flex;
               border-radius: 20px;
-              padding: 20px 20px; */
+              padding: 20px 20px;
 
-            
+          }   */
 
 input, label {
 display:block;
 outline: none;
 width: 100%;
-
+  margin-right: auto;
 }
+
 
 body {
 padding-top: 5vh;
 background-image: url(BluePurple.jpg);
 background-repeat: no-repeat;
 background-size: cover;
-background-attachment: fixed;
+
+
 }
 
+/* form */
 #main-container {
-/* max-width: 900px;
-height: 700px; */
+width: 900px;
+height: 700px;
 margin-left: auto;
 margin-right: auto;
-background-color: yellow;
+background-color: #FFF;
 border-radius: 30px;
-
+padding:23px;
 
 }
 
@@ -82,11 +85,59 @@ margin-bottom: 10px;
 form {
 display: flex;
 flex-wrap: wrap;
-justify-content:baseline; }
+justify-content:baseline;
+}
+
+.Profissão{ 
+
+  
+  margin-right: 2.5%;
+  
+
+}
+
+.full-box {
+flex: 1 1 100%;
+position: relative;
+}
+
+.Escolaridade {
+flex: 1 1 45%;
+margin-right: 2.5%;
+
+}
+
+.site{
+
+  margin-right: auto;
+
+
+}
+
+.Endereço {
+margin-right: 2.5%;
+
+
+}
+
+
+.Nome{
+  
+  margin-right: 2.5%;
+ 
+
+}
+
+
+#Sobre{
+border: 1px solid purple;
+border-radius: 10px;
+
+}
 
 .Lado-Esquerdo{
   margin-left: 75px;
-  /* margin-right: 128px; */
+  
   margin-top: -20px;
   
 }
@@ -95,7 +146,7 @@ justify-content:baseline; }
 
   margin-left: 125px;
   margin-top: 17px;
-    /* margin-bottom: ; */
+    
     
 }
 
@@ -104,6 +155,11 @@ justify-content:baseline; }
   height: 207px;
 }
 
+
+.links{
+
+ 
+}
 
 .links{ 
  
@@ -126,28 +182,61 @@ input {
 border-bottom: 2px solid #323232;
 padding: 10px;
 font-size: .9rem;
-margin-bottom: 30px;
+margin-bottom: 39px;
 width: 270px;
 border: 1px solid black;
-border-radius: 10px; }
+border-radius: 10px;
+/* height: 10; */
+}
+
+/* input:focus {
+border-color: #E60084;
+} */
 
 input[type="submit"] {
 background-color: purple;
 color: #FFF;
 border: none;
-border-radius: 20px;
+border-radius: 11px;
 height: 40px;
 cursor: pointer;
- position: all;
-  bottom: 0;
-  margin-bottom: 0;
-  right: 30%;
+right: 30%;
+  
 }
 
-  @media screen and (max-width: 900px) {
- *{ min-width: 360px;
-  
+#agreement {
+margin-right: 5px;
+}
 
- }
+#agreement, #agreement-label {
+display: inline-block;
+width: auto;
+}
+
+.error-validation {
+color: #ff1a1a;
+position: absolute;
+top: 57px;
+font-size: 12px;
+}
+
+.template {
+display: none;
+}
+
+@media screen and ( max-width: 600px)
+{ 
+  #main-container { height: 1400px; width: 400px; padding: 23px 23px;
 
   }
+  .Lado-Direito { margin-left: 75px; margin-top: -20px;
+
+
+  }
+ .botao{ display: flex; bottom: 0%; padding-bottom: 0%;
+   
+ }
+}
+
+
+  
