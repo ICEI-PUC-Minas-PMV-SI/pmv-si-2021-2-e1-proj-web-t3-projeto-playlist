@@ -3,7 +3,7 @@ html, body {
     width: auto;
     margin: 0;
     padding: 0;
-    background-image: url("https://cdn.discordapp.com/attachments/882760956420194340/893646415669121084/blue-purple-gradient-linear-1920x1080-c2-191970-800080-a-135-f-14.jpg");
+    background-image: url(../../assets/roxo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
