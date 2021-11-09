@@ -22,12 +22,12 @@ body {
         justify-content: space-between;
         border-radius: 20px;
         display:flex;
-        width: 500px;
-        height: 59px;
+        width: 565px;
+        height: 62px;
         margin-left: auto;
         margin-right: auto;
         align-items: center;
-        padding: 2px 2%;
+        padding: 3px 2%;
     }  
         .menu a {
             text-decoration: none;
@@ -92,44 +92,51 @@ body {
             background-color: white;
         }
 
-    #rodape {
-        flex-shrink: 0;
-        background-color: white;
-        color: rgb(133, 28, 219);
-        width: 96%;
-        margin-left: auto;
-        margin-right: auto;
-        text-align: center;
-        border-radius: 40px;
-        padding: 35px;
-    }
-        #rodape ul {
-            list-style: none;
-            display: flex   
+        #footer {
+            flex-shrink: 0;
+            background-color: white;
+            color: rgb(133, 28, 219);
+            width: 96%;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+            border-radius: 40px;
+            padding-top: 35px;
         }
-            
-        #rodape li {
+        
+        #footer ul {
+            list-style: none;
+            display: flex;
+        
+        }
+        
+        #footer li {
             margin: 0 auto;
         }
-            .credito {
-                color: rgb(133, 28, 219);
-            }
-            .credito ul {
-                list-style: none;
-                text-align: center;
-            }
-            .credito a{
-                text-decoration: none;
-                color: rgb(133, 28, 219);
-                padding-inline: 2px;
-            }
-            .credito a:hover {
-                color:pink;
-            }
-            h3 {
-                text-align: center;
-            }
-
+        
+        .credito {
+            color: rgb(133, 28, 219);
+        }
+        
+        .credito ul {
+            list-style: none;
+            text-align: center;
+        }
+        
+        .credito a {
+            text-decoration: none;
+            color: rgb(133, 28, 219);
+            padding-inline: 2px;
+        
+        }
+        
+        .credito a:hover {
+            color: pink;
+        }
+        
+        h3 {
+            text-align: center;
+        }
     @media screen and (max-width: 900px) {
                 .menu {
                     width: 300px;
@@ -154,15 +161,18 @@ body {
                     padding-top: 150px;
                     padding-bottom: 150px;
                 }
-                #rodape {
-                    width: 90%;
+                #footer {
+                    width: auto;
                 }
-                #rodape ul {
+            
+                #footer ul {
                     font-size: 15px;
                     display: inline-block;
                 }
+            
                 h3 {
                     font-size: 20px;
+                    margin: auto;
                 }
     
     } 
@@ -178,17 +188,24 @@ body {
                     border-radius: 10px;
                     padding: 9px 10px;  
                 }   
-                #rodape {
-                    width: 90%;
+                #footer {
+                    width: auto;
+                    padding-top: 15px;
+                    padding-bottom: 10px;
                 }
-                #rodape ul {
+            
+                #footer ul {
                     font-size: 15px;
                     display: block;
                 }
+            
+                #footer-text {
+                    margin-right: 15px;
+                }
+            
                 h3 {
                     font-size: 20px;
                 }
-    
     }
                 
            

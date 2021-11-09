@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Form de Registro com validações em JS</title>
+  <link rel="stylesheet" href="../styles/pages/perfil.css">
+</head>
+
+<body>
+    
+    <h1>Perfil</h1>
+
+    <div class="corpo">
+        <div class="conteudo">
+            <form class="formulario">
+                <div class="campos">
+                    <div class="campo">
+                        <label for="nome">Nome:</label>
+                        <input type="text" class="campoTexto" name="nome" >
+                    </div>
+                    <div class="campo">
+                        <label for="profissao">Profissão:</label>
+                        <input type="text" class="campoTexto" id="profissao" >
+                    </div>
+                    <div class="campo">
+                        <label for="endereco">Endereço:</label>
+                        <input type="text" class="campoTexto" id="endereco">
+                    </div>
+                    <div class="campo">
+                        <label for="escolaridade:">Escolaridade:</label>
+                        <input type="text" class="campoTexto" id="escolaridade" >
+                    </div>
+                    <div class="campo">
+                        <label for="site">Site:</label>
+                        <input type="text" class="campoTexto" id="site" >
+                    </div>
+                    <div class="campo">
+                        <label for="sobre">Nos conte um pouco sobre você:</label>
+                        <textarea class="campoTextArea" id="sobre" cols="32" rows="5"> </textarea>
+                    </div>
+                    <div class="campo">
+                        <label for="contato">Contato:</label>
+                        <input type="text" class="campoTexto" name="contato" >
+                    </div>
+                    <div class="campo">
+                        <label for="email">E-mail:</label>
+                        <input type="email" class="campoTexto" id="email" >
+                    </div>
+                </div>
+                   
+                <div class="campos">
+                    <div class="campo">
+                        <label for="podcastsdepressao">Podcasts relacionados à depressão: (Playlist)</label>
+                        <input type="text" class="campoTexto" id="podcastsdepressao">
+                    </div>
+
+                    <div class="campo">
+                        <label for="podcastsansiedade">Podcasts relacionados à ansiedade: (Playlist)</label>
+                        <input type="text" class="campoTexto"  id="podcastsansiedade">
+                    </div>
+                        
+                    <div class="campo">
+                        <label for="videodepressao">Vídeos relacionados à depressão: (Playlist)</label>
+                        <input type="text" class="campoTexto" id="videodepressao">
+                    </div>
+                    <div class="campo">
+                        <label for="videoansiedade">Vídeos relacionados à ansiedade: (Playlist)</label>
+                        <input type="text" class="campoTexto" id="videoansiedade">
+                    </div>
+                    <div class="campo">
+                        <label for="videoansiedade">Escolha seu avatar:</label>
+                    </div>
+
+                    <div class="avatares"> 
+                        <figure class="figure ">
+                            <input type="image" src="../assets/avatar1.png"
+                                class="avatar-select">
+                        <figure class="figure ">
+                            <input type="image" src="../assets/avatar2.png"
+                                class="avatar-select">
+                        <figure class="figure ">
+                            <input type="image" src="../assets/avatar3.png"
+                                class="avatar-select">
+                        <figure class="figure ">
+                            <input type="image" src="../assets/avatar4.png"
+                                class="avatar-select">
+                    </div>
+                    <div class="avatares">           
+                        <figure class="figure ">
+                            <input type="image" src="../assets/avatar5.png"
+                                class="avatar-select">
+                        <figure class="figure ">
+                            <input type="image" src="../assets/avatar6.png"
+                                class="avatar-select">
+                        <figure class="figure ">
+                            <input type="image" src="../assets/avatar7.png"
+                                class="avatar-select">
+                        <figure class="figure ">
+                            <input type="image" src="../assets/avatar8.png"
+                                class="avatar-select">
+                    </div> 
+                                <input type="submit" value="Enviar">
+                </div>
+            </form>
+            
+        </div>
+    </div>
+</html>
