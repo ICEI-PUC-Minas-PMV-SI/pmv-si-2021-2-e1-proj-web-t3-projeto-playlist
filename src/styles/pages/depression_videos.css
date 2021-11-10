@@ -38,7 +38,7 @@ html, body {
     color: white;
     display: flex;
     border-radius: 20px;
-    padding: 20px 20px;
+    padding: 12px 20px;
 
 }
 
@@ -191,7 +191,7 @@ span {
     padding-right: 7px;
 }
 
-.footer {
+#footer {
     flex-shrink: 0;
     background-color: white;
     color: rgb(133, 28, 219);
@@ -203,13 +203,13 @@ span {
     padding-top: 35px;
 }
 
-.footer ul {
+#footer ul {
     list-style: none;
     display: flex;
 
 }
 
-.footer li {
+#footer li {
     margin: 0 auto;
 }
 
@@ -238,11 +238,11 @@ h3 {
 }
 
 @media screen and (max-width: 900px) {
-    .footer {
+    #footer {
         width: auto;
     }
 
-    .footer ul {
+    #footer ul {
         font-size: 15px;
         display: inline-block;
     }
@@ -254,18 +254,18 @@ h3 {
 }
 
 @media screen and (max-width: 550px) {
-    .footer {
+    #footer {
         width: auto;
         padding-top: 15px;
         padding-bottom: 10px;
     }
 
-    .footer ul {
+    #footer ul {
         font-size: 15px;
         display: block;
     }
 
-    .footer-text {
+    #footer-text {
         margin-right: 15px;
     }
 
@@ -273,3 +273,5 @@ h3 {
         font-size: 20px;
     }
 }
+
+
