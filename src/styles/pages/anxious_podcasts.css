@@ -64,6 +64,7 @@ h2 {
     margin: 100px auto;
     display: block;
     border-radius: 5px;
+    visibility: hidden;
 }
 
 @media screen and (max-width: 800px) {
@@ -72,23 +73,6 @@ h2 {
     }
 
     .professional-profile {
-        box-sizing: border-box;
-        width: auto;
-        height: auto;
-    }
-}
-
-.professional-profile2 {
-    background-color: purple;
-    height: 400px;
-    width: 800px;
-    margin: 150px auto;
-    display: block;
-    border-radius: 5px;
-}
-
-@media screen and (max-width: 800px) {
-    .professional-profile2 {
         box-sizing: border-box;
         width: auto;
         height: auto;
