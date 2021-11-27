@@ -73,6 +73,7 @@ h2 {
     height: 65%;
     margin-right: auto;
     margin-left: auto;
+    border-radius: 40px;
 }
 
 .paginas {
@@ -101,6 +102,27 @@ h2 {
     background-color: white;
 }
 
+.form-container {
+background-color: purple;
+width: 800px;
+height: 300px;
+border-radius: 20px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+
+input {
+    border-radius: 10px;
+    width: 320px;
+    margin-top: 35px;
+}
+
+button {
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
 #footer {
     flex-shrink: 0;
     background-color: white;
@@ -111,6 +133,7 @@ h2 {
     text-align: center;
     border-radius: 40px;
     padding-top: 35px;
+    margin-top: 115px;
 }
 
 #footer ul {
@@ -176,6 +199,15 @@ h3 {
         padding-top: 150px;
         padding-bottom: 150px;
     }
+    
+
+    .form-container {
+        width:600px;
+        height: 250px;
+    }
+    input {
+        width: 200px ;
+    }
 
     #footer {
         width: auto;
@@ -193,7 +225,7 @@ h3 {
 
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 600px) {
     .menu {
         width: 250px;
         height: 36px;
@@ -206,6 +238,17 @@ h3 {
     .menu a:hover {
         border-radius: 10px;
         padding: 9px 10px;
+    }
+    #newsletter {
+        width: 350px;
+    }
+
+    .form-container {
+        width: 280px;
+        height: 300px;
+    }
+    input {
+        width: 150px;
     }
 
     #footer {
@@ -227,5 +270,6 @@ h3 {
         font-size: 20px;
     }
 }
+
                 
            
