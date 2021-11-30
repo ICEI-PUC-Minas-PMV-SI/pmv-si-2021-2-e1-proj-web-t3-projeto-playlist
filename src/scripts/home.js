@@ -1,3 +1,24 @@
+/*function inscricao(){
+  var nomeUsuario = document.getElementById("nome");
+  var emailUsuario = document.getElementById("email");
+  
+  var dados = JSON.parse(localStorage.getItem("dadosNewsletter"));
+
+  if(dados == null){
+    localStorage.setItem("dadosNewsletter", "[]");
+    dados = [];
+  }
+
+  var auxRegister = {
+    usuario: nomeUsuario.value,
+    contato: emailUsuario.value
+  }
+
+  dados.push(auxRegister);
+  localStorage.setItem("dadosNewsletter", JSON.stringify(dados));
+
+}*/
+
   let nome = document.getElementById("nome");
   let validnome = false;
 
@@ -42,15 +63,15 @@ function inscricao() {
     listaNewsletter.push(
       { 
           usuario: nome.value,
-          email: email.value
+          contato: email.value
       }
     )
       
     localStorage.setItem("listaNewsletter", JSON.stringify(listaNewsletter));
-    alert( "Inscrito(a) com sucesso! Obrigado por nos acompanhar, a partir de agora receberá notícias exclusivas.")
+    alert( "Cadastrado com sucesso!")
    
    } else { 
-      alert("Campo inválido!")
+      alert("Preencha os campos corretamente!")
    }
 
 }
