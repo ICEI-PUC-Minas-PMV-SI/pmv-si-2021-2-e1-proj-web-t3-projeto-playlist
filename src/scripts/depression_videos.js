@@ -9,7 +9,7 @@ function getProfessionalData() {
                 .css('visibility', 'visible')
                 .attr('id', 'professional-profile').appendTo($(".main-content"))
 
-            newProfile.find('#avatar').attr('src', `../assets/${profile.avatar}`)
+            newProfile.find('#avatar').attr('src', `../assets/${profile.avatar}`+'.png')
             newProfile.find('#name').text(profile.name)
             newProfile.find('#profession').text(profile.profession)
             newProfile.find('#site').attr('href', profile.site)
