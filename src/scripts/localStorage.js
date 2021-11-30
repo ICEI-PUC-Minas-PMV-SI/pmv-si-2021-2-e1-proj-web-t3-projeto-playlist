@@ -60,24 +60,6 @@ document.querySelector('form').onsubmit = function (e) {
         window.localStorage.setItem('anxious_podcasts', JSON.stringify(professionalsDataAnxiousPodcasts));
     }
     else if (videodepressao != "") {
-        const professionalsDataAnxiousVideos = [
-            {
-                name: this.nome.value,
-                profession: this.profissao.value,
-                address: this.endereco.value,
-                degree: this.escolaridade.value,
-                site: this.site.value,
-                about: this.sobre.value,
-                phone: this.contato.value,
-                email: this.email.value,
-                playlist: this.podcastsdepressao.value,
-                avatar: avatar,
-            }
-        ]
-
-        window.localStorage.setItem('anxious_videos', JSON.stringify(professionalsDataAnxiousVideos));
-    }
-    else if (videoansiedade != null) {
         const professionalsDataDepressionVideos = [
             {
                 name: this.nome.value,
@@ -92,6 +74,24 @@ document.querySelector('form').onsubmit = function (e) {
                 avatar: avatar,
             }
         ]
+
         window.localStorage.setItem('depression_videos', JSON.stringify(professionalsDataDepressionVideos));
+    }
+    else if (videoansiedade != null) {
+        const professionalsDataAnxiousVideos = [
+            {
+                name: this.nome.value,
+                profession: this.profissao.value,
+                address: this.endereco.value,
+                degree: this.escolaridade.value,
+                site: this.site.value,
+                about: this.sobre.value,
+                phone: this.contato.value,
+                email: this.email.value,
+                playlist: this.podcastsdepressao.value,
+                avatar: avatar,
+            }
+        ]
+        window.localStorage.setItem('anxious_videos', JSON.stringify(professionalsDataAnxiousVideos));
     }
 };
