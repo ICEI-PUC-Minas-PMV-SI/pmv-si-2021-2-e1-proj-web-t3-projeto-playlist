@@ -22,12 +22,12 @@ body {
     justify-content: space-between;
     border-radius: 20px;
     display: flex;
-    width: 565px;
-    height: 62px;
+    width: 300px;
+    height: 59px;
     margin-left: auto;
     margin-right: auto;
     align-items: center;
-    padding: 3px 2%;
+    padding: 2px 2%;
 }
 
 .menu a {
@@ -41,64 +41,37 @@ body {
     color: white;
     display: flex;
     border-radius: 20px;
-    padding: 15px 20px;
+    padding: 18px 20px;
 }
 
 .conteudo {
+    text-align: center;
     color: white;
     flex: 1 0 auto;
+    padding-top: 150px;
+    padding-bottom: 150px;
 }
 
-#transtornos {
-    text-align: center;
-    padding-top: 350px;
-    padding-bottom: 350px;
-}
-
-.ansiedade {
-    padding-bottom: 100px;
-}
-
-h2 {
+h1 {
     text-decoration: overline;
 }
 
-.carousel {
-    padding-top: 16px;
-    padding-bottom: 20px;
-}
-
-.carousel-inner {
-    width: 65%;
-    height: 65%;
-    margin-right: auto;
-    margin-left: auto;
-}
-
-.paginas {
+.texto {
+    color: white;
     text-align: center;
 }
 
-.paginas button {
-    background-color: purple;
-    padding-inline: 20px;
-    border-radius: 10px;
+ul {
+    list-style: none;
+}
+
+ul a {
+    color: white;
     text-decoration: none;
 }
 
-.paginas button a {
-    color: White;
-    text-decoration: none;
-}
-
-.paginas button a:hover {
-    color: purple;
-    padding: 40px 60px;
-
-}
-
-.paginas button:hover {
-    background-color: white;
+ul a:hover {
+    color: yellow;
 }
 
 #footer {
@@ -227,5 +200,3 @@ h3 {
         font-size: 20px;
     }
 }
-                
-           
