@@ -51,6 +51,7 @@ body {
         flex: 1 0 auto;
         padding-top: 20px;
     }
+
 h1{
     text-decoration: overline;
 }
@@ -157,3 +158,24 @@ padding: 25px 22px;
                        font-size: 20px;
                    }
        }
+
+.card {
+    border: none !important;
+    width: 18rem; 
+    margin: 2% !important; 
+    
+}    
+.card-text {
+    color: black;
+    font-size: 13px;
+    text-align: justify;
+}
+.card-title {
+    color: black;
+}
+#content {
+    padding: 40px 0 30px 0;
+}
+.card-img-top {
+    height: 75%;
+}
