@@ -23,7 +23,7 @@ function getProfessionalData() {
 
     }
     alert('Nenhum perfil foi criado para essa categoria. Por gentileza, retorne mais tarde.')
-    return window.location = '../pages/home.html'
+    return window.location = '../index.html'
 }
 
 getProfessionalData()
