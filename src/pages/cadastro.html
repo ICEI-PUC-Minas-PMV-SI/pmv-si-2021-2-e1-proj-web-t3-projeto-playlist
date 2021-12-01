@@ -1,79 +1,78 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <head>
-      <meta charset="UTF-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Cadastro</title>
-      <link rel="stylesheet" href="../styles/pages/cadastro.css">
-          
-    </head>
-    <body>
-        <header>
-            <div class="menu">
-                <div class="button">
-                    <a href="../index.html">Início</a>
-                </div>
-                <div class="button">
-                    <a href="#">Transtornos</a>
-                </div>
-                <div class="button">
-                    <a href="#">Sobre Nós</a>
-                </div>
-                <div class="button">
-                    <a href="#">Entrar</a>
-                </div>  
-            </div>
-        </header>
-        
-        <div class="corpo">
-           
-            <h1 class="titulo">CADASTRO</h1>
-            
-            <form method= "POST" class="formulario">
-                        
-                <div class="campo">
-                    <label" for="name" class="comando">Nome:</label><br>
-                    <input type="text" class="campoTexto" id="name" name="nome">
-                </div> 
-                <div class="linhaDupla">
-                    <div class="campo campoTextoDividido">
-                        <label for="profissao" class="comando" >Profissão:</label><br>
-                        <input type="text" class="campoTexto" id="profissao" name= "profissao">
-                    </div>
-                    <div class="campo campoTextoDividido">
-                        <label for="registro" class="comando">CRM/CRP:</label><br>
-                        <input type="text" class="campoTexto" id="registro" name='registro'>
-                    </div>
-                </div>
-                    <div class="campo">
-                        <label for="motivacao" class="comando">O que te motiva a colaborar conosco?</label><br>
-                        <textarea  class="campoTextarea" rows="3" cols="80" id="motivacao" name="texto"></textarea>
-                    </div>
-                    <div class="campo">
-                        <label for="email" class="comando">E-mail:</label><br>
-                        <input type="email" class="campoTexto" id="email">
-                    </div> 
-                <div class="linhaDupla">
-                    <div class="campo campoTextoDividido">
-                        <label for="password" class="comando">Definir senha:</label><br>
-                        <input type="password" class="campoTexto" id="password">
-                    </div>
-                    <div class="campo campoTextoDividido">
-                        <label for="confirmacao" class="comando">Confirmar senha:</label><br>
-                        <input type="password" class="campoTexto" id="password"><br>
-                    </div>
-                </div>
-           
-                <div class="botoes">
-                    <input type="button" class="botao" value="Enviar">
-                </div>
-            
-            </form>  
-           
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro</title>
+    <link rel="stylesheet" href="../styles/pages/cadastro.css">
+
+</head>
+<body>
+<header>
+    <div class="menu">
+        <div class="button">
+            <a href="../index.html">Início</a>
         </div>
-  
-    </body>
+        <div class="button">
+            <a href="../index.html#transtornos">Transtornos</a>
+        </div>
+        <div class="button">
+            <a href="../index.html#footer">Sobre Nós</a>
+        </div>
+        <div class="button">
+            <a href="../pages/login.html">Entrar</a>
+        </div>
+    </div>
+</header>
+
+<div class="corpo">
+
+    <h1 class="titulo">CADASTRO</h1>
+
+    <form method="POST" class="formulario">
+
+        <div class="campo">
+            <label for="name" class="comando">Nome:</label><br>
+            <input type="text" class="campoTexto" id="name" name="nome">
+        </div>
+        <div class="linhaDupla">
+            <div class="campo campoTextoDividido">
+                <label for="profissao" class="comando">Profissão:</label><br>
+                <input type="text" class="campoTexto" id="profissao" name="profissao">
+            </div>
+            <div class="campo campoTextoDividido">
+                <label for="registro" class="comando">CRM/CRP:</label><br>
+                <input type="text" class="campoTexto" id="registro" name='registro'>
+            </div>
+        </div>
+        <div class="campo">
+            <label for="motivacao" class="comando">O que te motiva a colaborar conosco?</label><br>
+            <textarea class="campoTextarea" rows="3" cols="80" id="motivacao" name="texto"></textarea>
+        </div>
+        <div class="campo">
+            <label for="email" class="comando">E-mail:</label><br>
+            <input type="email" class="campoTexto" id="email">
+        </div>
+        <div class="linhaDupla">
+            <div class="campo campoTextoDividido">
+                <label for="password" class="comando">Definir senha:</label><br>
+                <input type="password" class="campoTexto" id="password">
+            </div>
+            <div class="campo campoTextoDividido">
+                <label for="confirmacao" class="comando">Confirmar senha:</label><br>
+                <input type="password" class="campoTexto" id="confirmacao"><br>
+            </div>
+        </div>
+
+        <div class="botoes">
+            <input type="button" class="botao" value="Enviar">
+        </div>
+
+    </form>
+
+</div>
+
+</body>
 
 </html>
-
