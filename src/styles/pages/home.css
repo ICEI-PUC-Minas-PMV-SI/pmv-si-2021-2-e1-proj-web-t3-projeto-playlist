@@ -1,7 +1,7 @@
 html, body {
     height: 100%;
-    margin: 0px;
-    padding: 0px; 
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -16,172 +16,216 @@ body {
     background-attachment: fixed;
 }
 
+.menu {
+    background-color: white;
+    color: purple;
+    justify-content: space-between;
+    border-radius: 20px;
+    display: flex;
+    width: 565px;
+    height: 62px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    padding: 3px 2%;
+}
+
+.menu a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.menu a:hover {
+    transition: .4s;
+    background-color: rgb(53, 43, 117);
+    color: white;
+    display: flex;
+    border-radius: 20px;
+    padding: 15px 20px;
+}
+
+.conteudo {
+    color: white;
+    flex: 1 0 auto;
+}
+
+#transtornos {
+    text-align: center;
+    padding-top: 350px;
+    padding-bottom: 350px;
+}
+
+.ansiedade {
+    padding-bottom: 100px;
+}
+
+h2 {
+    text-decoration: overline;
+}
+
+.carousel {
+    padding-top: 16px;
+    padding-bottom: 20px;
+}
+
+.carousel-inner {
+    width: 65%;
+    height: 65%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.paginas {
+    text-align: center;
+}
+
+.paginas button {
+    background-color: purple;
+    padding-inline: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.paginas button a {
+    color: White;
+    text-decoration: none;
+}
+
+.paginas button a:hover {
+    color: purple;
+    padding: 40px 60px;
+
+}
+
+.paginas button:hover {
+    background-color: white;
+}
+
+#footer {
+    flex-shrink: 0;
+    background-color: white;
+    color: rgb(133, 28, 219);
+    width: 96%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 40px;
+    padding-top: 35px;
+}
+
+#footer ul {
+    list-style: none;
+    display: flex;
+
+}
+
+#footer li {
+    margin: 0 auto;
+}
+
+.credito {
+    color: rgb(133, 28, 219);
+}
+
+.credito ul {
+    list-style: none;
+    text-align: center;
+}
+
+.credito a {
+    text-decoration: none;
+    color: rgb(133, 28, 219);
+    padding-inline: 2px;
+
+}
+
+.credito a:hover {
+    color: pink;
+}
+
+h3 {
+    text-align: center;
+}
+
+@media screen and (max-width: 900px) {
     .menu {
-        background-color: white;
-        color: purple;
-        justify-content: space-between;
-        border-radius: 20px;
-        display:flex;
-        width: 500px;
-        height: 59px;
-        margin-left: auto;
+        width: 300px;
+    }
+
+    .menu a {
+        font-size: 15px;
+    }
+
+    .menu a:hover {
+        padding: 19px 15px;
+    }
+
+    .carousel {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .carousel-inner {
+        width: 90%;
+        height: 65%;
         margin-right: auto;
-        align-items: center;
-        padding: 2px 2%;
-    }  
-        .menu a {
-            text-decoration: none;
-            font-size: 20px;
-        }
-        .menu a:hover {
-            transition: .4s;
-            background-color: rgb(53, 43, 117);
-            color: white;
-            display: flex;
-            border-radius: 20px;
-            padding: 15px 20px;  
-        } 
-
-    .conteudo {
-        color: white;
-        flex: 1 0 auto;  
-    }
-        .transtornos {
-            text-align: center;
-            padding-top: 350px;
-            padding-bottom: 350px;
-        }
-            .ansiedade {
-                padding-bottom: 100px;
-            }
-
-        h2 {
-            text-decoration: overline;
-        }
-
-        .carousel {
-            padding-top: 16px;
-            padding-bottom: 20px;
-        }
-        .carousel-inner {
-            width: 65%;
-            height: 65%;
-            margin-right: auto;
-            margin-left: auto;
-        }
-
-    .paginas {
-        text-align: center;
-    }
-        .paginas button {
-            color: white;
-            text-decoration: none;
-            background-color: purple;
-            padding-inline: 20px;
-            border-radius: 10px;
-        }
-        .paginas button:hover {
-            color: purple;
-            background-color: white;
-        }
-
-    .rodape {
-        flex-shrink: 0;
-        background-color: white;
-        color: rgb(133, 28, 219);
-        width: 96%;
         margin-left: auto;
-        margin-right: auto;
-        text-align: center;
-        border-radius: 40px;
-        padding: 35px;
     }
-        .rodape ul {
-            list-style: none;
-            display: flex   
-        }
-            
-        .rodape li {
-            margin: 0 auto;
-        }
-            .credito {
-                color: rgb(133, 28, 219);
-            }
-            .credito ul {
-                list-style: none;
-                text-align: center;
-            }
-            .credito a{
-                text-decoration: none;
-                color: rgb(133, 28, 219);
-                padding-inline: 2px;
-            }
-            .credito a:hover {
-                color:pink;
-            }
-            h3 {
-                text-align: center;
-            }
 
-    @media screen and (max-width: 900px) {
-                .menu {
-                    width: 300px;
-                }  
-                .menu a {
-                    font-size: 15px;
-                }  
-                .menu a:hover {
-                    padding: 19px 15px;  
-                } 
-                .carousel {
-                    padding-top: 25px;
-                    padding-bottom: 25px;
-                }
-                .carousel-inner {
-                    width: 90%;
-                    height: 65%;
-                    margin-right: auto;
-                    margin-left: auto;
-                }
-                .transtornos {
-                    padding-top: 150px;
-                    padding-bottom: 150px;
-                }
-                .rodape {
-                    width: 90%;
-                }
-                .rodape ul {
-                    font-size: 15px;
-                    display: inline-block;
-                }
-                h3 {
-                    font-size: 20px;
-                }
-    
-    } 
-    @media screen and (max-width: 550px) {
-                .menu {
-                    width: 250px;
-                    height: 36px;
-                }  
-                .menu a {
-                    font-size: 13px;
-                }
-                .menu a:hover {
-                    border-radius: 10px;
-                    padding: 9px 10px;  
-                }   
-                .rodape {
-                    width: 90%;
-                }
-                .rodape ul {
-                    font-size: 15px;
-                    display: block;
-                }
-                h3 {
-                    font-size: 20px;
-                }
-    
+    #transtornos {
+        padding-top: 150px;
+        padding-bottom: 150px;
     }
+
+    #footer {
+        width: auto;
+    }
+
+    #footer ul {
+        font-size: 15px;
+        display: inline-block;
+    }
+
+    h3 {
+        font-size: 20px;
+        margin: auto;
+    }
+
+}
+
+@media screen and (max-width: 550px) {
+    .menu {
+        width: 250px;
+        height: 36px;
+    }
+
+    .menu a {
+        font-size: 13px;
+    }
+
+    .menu a:hover {
+        border-radius: 10px;
+        padding: 9px 10px;
+    }
+
+    #footer {
+        width: auto;
+        padding-top: 15px;
+        padding-bottom: 10px;
+    }
+
+    #footer ul {
+        font-size: 15px;
+        display: block;
+    }
+
+    #footer-text {
+        margin-right: 15px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+}
                 
            

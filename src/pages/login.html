@@ -8,37 +8,49 @@
     <link rel="stylesheet" href="../styles/pages/login.css">
 </head>
 <body>
-    <header>
-        <div class="menu"> 
-            <div class="button">
-                <a href="../index.html"> Início </a>
-            </div>
-            <div class="button">
-                <a href="#"> Transtornos </a>
-            </div>
-            <div class="button">
-                <a href="#"> Sobre Nós </a>
-            </div>
-            <div class="button">
-                <a href="#"> Entrar </a>
-            </div>
+<header>
+    <div class="menu">
+        <div class="button">
+            <a href="../index.html"> Início </a>
         </div>
-    </header>
+        <div class="button">
+            <a href="../index.html#transtornos"> Transtornos </a>
+        </div>
+        <div class="button">
+            <a href="../index.html#footer"> Sobre Nós </a>
+        </div>
+        <div class="button">
+            <a href="login.html"> Entrar </a>
+        </div>
+    </div>
+</header>
 
-<div class="login-container">
-   <h1> Login </h1>
-    <form action=""> 
-        <label for="email">E-mail</label>
-           <input type="email" name="email" id="email" placeholder="Digite seu email aqui" autocomplete="off">
-         <label for="password">Senha</label>  
-         <input type="password" name="password" id="password" placeholder="Digite a sua senha aqui">
-         <input type="submit" value="Entrar">
-         <p>Esqueceu a senha? Contate-nos</p> 
-    </form>
-    <div class="register-container">
-        <p>Ainda não é um colaborador?</p> 
-        <a href="../pages/cadastro.html">Cadastre-se</a> 
-    </div>  
+
+<div class='container'>
+    <div class='card'>
+      <h1> Entrar </h1>
+
+      <div id='msgError'></div>
+
+      <div class='label-float'>
+        <label id='emailLabel' for='email'>Email</label> <br>
+        <input type='text' id='email' paceholder='' required>
+      </div>
+
+      <div class='label-float'>
+        <label id='senhaLabel' for='senha'>Senha</label> <br>
+        <input type='password' id='senha' paceholder='' required>
+      </div>
+
+      <div class='justify-center'>
+        <button onclick='entrar()'>Entrar</button>
+      </div>
+
+      <div class='register-container'>
+        <p>Problemas com login? Contate-nos em playsafe@email.com</p> <br>
+        <p> Não tem conta?<a href="cadastro.html"> Cadastre-se </a></p>
 </div>
+
+<script src="../scripts/login.js"></script>
 </body>
 </html>

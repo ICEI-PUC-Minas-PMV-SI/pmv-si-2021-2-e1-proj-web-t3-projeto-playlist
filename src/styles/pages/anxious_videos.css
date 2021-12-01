@@ -3,7 +3,7 @@ html, body {
     width: auto;
     margin: 0;
     padding: 0;
-    background-image: url("https://cdn.discordapp.com/attachments/882760956420194340/893646415669121084/blue-purple-gradient-linear-1920x1080-c2-191970-800080-a-135-f-14.jpg");
+    background-image: url(../../assets/roxo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -38,14 +38,13 @@ html, body {
     color: white;
     display: flex;
     border-radius: 20px;
-    padding: 20px 20px;
+    padding: 12px 20px;
 
 }
 
 .page_title {
     padding-top: 80px;
     text-align: center;
-    padding-bottom: 100px;
 }
 
 h2 {
@@ -62,34 +61,18 @@ h2 {
     background-color: purple;
     height: 400px;
     width: 800px;
-    margin: auto;
+    margin: 100px auto;
     display: block;
     border-radius: 5px;
+    visibility: hidden;
 }
 
-@media screen and (max-width: 833px) {
+@media screen and (max-width: 800px) {
     body {
         overflow-x: hidden
     }
 
     .professional-profile {
-        box-sizing: border-box;
-        width: auto;
-        height: auto;
-    }
-}
-
-.professional-profile2 {
-    background-color: purple;
-    height: 400px;
-    width: 800px;
-    margin: 150px auto;
-    display: block;
-    border-radius: 5px;
-}
-
-@media screen and (max-width: 833px) {
-    .professional-profile2 {
         box-sizing: border-box;
         width: auto;
         height: auto;
@@ -106,7 +89,7 @@ span {
     display: table-cell;
 }
 
-@media screen and (max-width: 833px) {
+@media screen and (max-width: 800px) {
     span {
         display: block;
     }
@@ -121,12 +104,12 @@ span {
 
 .name1 {
     font-size: 35px;
-    padding-right: 100px;
+    padding-right: 190px;
 }
 
 .name2 {
     font-size: 35px;
-    padding-right: 180px;
+    padding-right: 220px;
 }
 
 .profession {
@@ -164,7 +147,7 @@ span {
 
 }
 
-@media screen and (max-width: 833px) {
+@media screen and (max-width: 800px) {
     .about_me {
         flex-direction: column;
     }
@@ -191,7 +174,7 @@ span {
     padding-right: 7px;
 }
 
-.footer {
+#footer {
     flex-shrink: 0;
     background-color: white;
     color: rgb(133, 28, 219);
@@ -203,13 +186,13 @@ span {
     padding-top: 35px;
 }
 
-.footer ul {
+#footer ul {
     list-style: none;
     display: flex;
 
 }
 
-.footer li {
+#footer li {
     margin: 0 auto;
 }
 
@@ -238,11 +221,11 @@ h3 {
 }
 
 @media screen and (max-width: 900px) {
-    .footer {
+    #footer {
         width: auto;
     }
 
-    .footer ul {
+    #footer ul {
         font-size: 15px;
         display: inline-block;
     }
@@ -254,18 +237,18 @@ h3 {
 }
 
 @media screen and (max-width: 550px) {
-    .footer {
+    #footer {
         width: auto;
         padding-top: 15px;
         padding-bottom: 10px;
     }
 
-    .footer ul {
+    #footer ul {
         font-size: 15px;
         display: block;
     }
 
-    .footer-text {
+    #footer-text {
         margin-right: 15px;
     }
 

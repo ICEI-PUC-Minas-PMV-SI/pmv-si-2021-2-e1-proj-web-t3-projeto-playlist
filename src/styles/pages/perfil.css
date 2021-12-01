@@ -1,0 +1,140 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    background-image: url(../../assets/roxo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.corpo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 28px;
+}
+
+.conteudo {
+    width: 80%;
+    border-radius: 30px;
+}
+
+.titulo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: #2a1170;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.campos {
+    width: 50%;
+    padding: 1.5rem 1rem;
+    margin-left: 1rem;
+}
+
+.campo {
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    color: white;
+    font-weight: bold;
+    padding-bottom: 1rem;
+}
+
+.campoTexto {
+    height: 28px;
+}
+
+.campoTexto, .campoTextArea {
+    border-radius: 8px;
+}
+
+.imagem {
+    padding-top: 0.5rem;
+    height: 250px;
+}
+
+.figure {
+    display: contents;
+}
+
+.avatar-selecionado {
+    border: 3px solid white;
+    transform: scale(1.2);
+}
+
+.avatar-select {
+    max-width: 80px;
+    max-height: 80px;
+}
+
+.avatares {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+input[type="submit"] {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none;
+    height: 40px;
+    width: 340px;
+    border-radius: 10px;
+    color: black;
+    cursor: pointer;
+}
+
+@media screen  and (max-width: 800px) {
+    .menu {
+        width: 280px;
+    }
+
+    .menu a:hover {
+        padding: 24px 10px;
+        border-radius: 10px;
+    }
+
+    .menu a {
+        font-size: 15px;
+    }
+
+    .formulario {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .campos {
+        width: 90%;
+        padding: 0 0.6rem;
+        /*margin-left: 1rem;*/
+    }
+
+    .campo {
+        width: 95%;
+    }
+
+    .campoBotao {
+        padding-bottom: 0.5rem;
+
+
+    }
+}
+
+@media screen  and (max-width: 480px) {
+    input[type="submit"] {
+        width: 170px;
+    }
+}
