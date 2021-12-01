@@ -10,15 +10,15 @@ let motivacao = document.getElementById("motivacao");
 let validMotivacao = false
 
 let email = document.getElementById("email");
-let labelEmail = document.getElementById('labelEmail');
+let labelEmail = document.getElementById("labelEmail");
 let validEmail = false;
 
 let password = document.getElementById("password");
-let labelPassword = document.getElementById('labelPassword');
+let labelPassword = document.getElementById("labelPassword");
 let validPassword = false
 
 let confirmacao = document.getElementById("confirmacao");
-let labelConfirmacao = document.getElementById('labelConfirmacao');
+let labelConfirmacao = document.getElementById("labelConfirmacao");
 let validConfirmacao = false
 
 let msgErro = document.getElementById("msgErro");
@@ -149,7 +149,7 @@ function cadastrar(){
 		labelConfirmacao.innerHTML = "Confirmar senha:";
 		confirmacao.setAttribute("style", "border-color: rgb(52, 7, 104)");
 		validConfirmacao = true;
-		 } 
+	 	} 
  
 	  if(validNome && validEmail && validPassword && validConfirmacao){
 		let listaUser = JSON.parse(localStorage.getItem("listaUser") || "[]")
@@ -171,7 +171,7 @@ function cadastrar(){
 		localStorage.setItem("listaUser", JSON.stringify(listaUser));
         
 			msgSucesso.setAttribute("style", "display: block");
-			msgSucesso.innerHTML = "<strong>Cadastrando...</strong>";
+			msgSucesso.innerHTML = "<strong>Cadastrado com sucesso!</strong>";
 			msgErro.setAttribute("style", "display: none");
 			msgErro.innerHTML = "";
 		
