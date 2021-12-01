@@ -8,6 +8,7 @@
           integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="../styles/pages/anxious_podcasts.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <title>Podcasts - Ansiedade</title>
 </head>
 <body>
@@ -32,85 +33,47 @@
 </div>
 
 <div class="page-content">
-
-    <div class="professional-profile">
-        <div class="section1">
+    <div class="main-content">
+        <div class="professional-profile" id="professional-profile-boilerplate">
+            <div class="section1">
             <span><img src="../assets/avatar1.png" class="roundImage"
-                       alt="profile_photo"/></span>
-            <span class="name1">John Doe</span>
-            <span class="profession">Psicólogo </span>
-        </div>
+                       alt="profile_photo" id="avatar"/></span>
+                <span class="name1" id="name">John Doe</span>
+                <span class="profession" id="profession">Psicólogo </span>
+            </div>
 
-        <div class="section2">
+            <div class="section2">
         <span>
-        <a class="professional_site" href="">myprofissionalsite.com.br</a>
+        <a class="professional_site" href="" target="_blank" id="site">Personal Site</a>
         </span>
-            <span>  <a class="playlist_link" href="playlistlink.com.br">Playlist </a> </span>
-        </div>
+                <span>  <a class="playlist_link" href="" target="_blank" id="playlist">Playlist </a> </span>
+            </div>
 
-        <div class="section3">
-            <div class="about_me">
+            <div class="section3">
+                <div class="about_me">
 
-                <div class="about_me_text">
+                    <div class="about_me_text">
 
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                        laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto
-                        beatae
-                        vitae
-                        dicta sunt explicabo.
-                    </p>
-                </div>
-                <div class="professional-data">
+                        <p id="about">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+                            doloremque
+                            laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+                            architecto
+                            beatae
+                            vitae
+                            dicta sunt explicabo.
+                        </p>
+                    </div>
+                    <div class="professional-data">
 
-                    <p><i class='fa fa-map-marker'></i>
-                        Av.Fulano, nº25 Belo Horizonte/MG</p>
-                    <p><i class="fa fa-phone "></i>(XX) X XXXX-XXXX</p>
-                    <p><i class="fa fa-envelope-o "></i>john@email.com</p>
+                        <p id="address"><i class='fa fa-map-marker'></i>
+                            Av.Fulano, nº25 Belo Horizonte/MG</p>
+                        <p id="phone"><i class="fa fa-phone "></i>(XX) X XXXX-XXXX</p>
+                        <p id="email"><i class="fa fa-envelope-o "></i>john@email.com</p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-
-
-    <div class="professional-profile2">
-        <div class="section1">
-            <span><img src="../assets/avatar2.png" class="roundImage"
-                       alt="profile_photo"/></span>
-            <span class="name2">Mary L.</span>
-            <span class="profession">Psicanalista</span>
-        </div>
-
-        <div class="section2">
-        <span>
-        <a class="professional_site" href="myprofessionalsite.com.br">myprofissionalsite.com.br</a>
-        </span>
-            <span>  <a class="playlist_link" href="playlistlink.com.br">Playlist </a> </span>
-        </div>
-
-        <div class="section3">
-            <div class="about_me">
-
-                <div class="about_me_text">
-
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                        laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto
-                        beatae
-                        vitae
-                        dicta sunt explicabo.
-                    </p>
-                </div>
-                <div class="professional-data">
-
-                    <p><i class='fa fa-map-marker'></i>
-                        Av. Genérica, nº116 Florianópolis/SC</p>
-                    <p><i class="fa fa-phone "></i>(XX) X XXXX-XXXX</p>
-                    <p><i class="fa fa-envelope-o "></i>mary@mail.com</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
     <footer id="footer">
         <ul class="footer-text">
             <div class="credito">
@@ -134,7 +97,7 @@
     </footer>
 </div>
 
-
+<script src="../scripts/anxious_podcasts.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"
         integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB"
         crossorigin="anonymous"></script>
