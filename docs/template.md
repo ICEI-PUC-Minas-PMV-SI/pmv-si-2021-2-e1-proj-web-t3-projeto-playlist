@@ -12,7 +12,7 @@ Página de login: Página de login para profissionais cadastrados terem acesso a
 Página de perfil: Profissionais podem inserir suas playlists, além de, informações como endereço, nome, profissão e resumo sobre si. É possível escolher quais tipos de playlists pretende divulgar.
 ![Exemplo de perfil](https://user-images.githubusercontent.com/89880127/144356492-2ed2609d-40f0-467f-9a7f-b1fc0b88433d.png)
 Página de músicas: Disponibilizamos links de sites externos que indicam músicas e trazem informações sobre os efeitos positivos que as mesmas trazem para a saúde.
-![Exemplo de músicas](https://user-images.githubusercontent.com/90011477/136636216-5b03371f-cb18-4309-a7a2-16d4fb25c9b1.png)
+![Exemplo de músicas](https://user-images.githubusercontent.com/89880127/144357016-03c24fdc-deeb-439e-bcfb-f73a005d6665.png)
 Páginas de playlists: Essas páginas apresentam os dados inseridos na página de perfil. 
 Página podcasts - Ansiedade
 ![Exemplo de podcasts A](https://user-images.githubusercontent.com/65237061/136625275-890c2644-e2c8-4a10-a29f-86ce7bda6403.png)
