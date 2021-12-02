@@ -95,3 +95,5 @@ document.querySelector('form').onsubmit = function (e) {
         window.localStorage.setItem('anxious_videos', JSON.stringify(professionalsDataAnxiousVideos));
     }
 };
+
+
