@@ -1,5 +1,19 @@
 document.querySelector('form').onsubmit = function (e) {
+
     e.preventDefault()
+
+    var nome = document.getElementById('nome').value;
+    if(nome.length < 3){
+        return   alert('Insira um nome ou apelido com ao menos 3 caracteres!' )
+    }
+
+    var profissao = document.getElementById('profissao').value;
+    if(profissao.length < 3) {
+
+            return alert('Preencha sua profissão!')
+        }
+
+
 
     var podcastsdepressao = this.podcastsdepressao.value;
     var podcastsansiedade = this.podcastsansiedade.value;
@@ -25,7 +39,8 @@ document.querySelector('form').onsubmit = function (e) {
         avatar = this.avatar8.value;
 
 
-    if (podcastsdepressao != "") {
+    if (podcastsdepressao) {
+
         const professionalsDataDepressionPodcasts = [
             {
                 name: this.nome.value,
@@ -41,8 +56,9 @@ document.querySelector('form').onsubmit = function (e) {
             }
         ]
         window.localStorage.setItem('depression_podcasts', JSON.stringify(professionalsDataDepressionPodcasts));
+        window.location.href='../index.html'
     }
-    else if (podcastsansiedade != "") {
+    else if (podcastsansiedade) {
         const professionalsDataAnxiousPodcasts = [
             {
                 name: this.nome.value,
@@ -58,8 +74,9 @@ document.querySelector('form').onsubmit = function (e) {
             }
         ]
         window.localStorage.setItem('anxious_podcasts', JSON.stringify(professionalsDataAnxiousPodcasts));
+        window.location.href='../index.html'
     }
-    else if (videodepressao != "") {
+    else if (videodepressao) {
         const professionalsDataDepressionVideos = [
             {
                 name: this.nome.value,
@@ -76,8 +93,9 @@ document.querySelector('form').onsubmit = function (e) {
         ]
 
         window.localStorage.setItem('depression_videos', JSON.stringify(professionalsDataDepressionVideos));
+        window.location.href='../index.html'
     }
-    else if (videoansiedade != null) {
+    else if (videoansiedade) {
         const professionalsDataAnxiousVideos = [
             {
                 name: this.nome.value,
@@ -93,5 +111,9 @@ document.querySelector('form').onsubmit = function (e) {
             }
         ]
         window.localStorage.setItem('anxious_videos', JSON.stringify(professionalsDataAnxiousVideos));
+        window.location.href='../index.html'
+    };
     }
-};
+
+
+
