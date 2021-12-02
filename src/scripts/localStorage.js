@@ -56,7 +56,7 @@ document.querySelector('form').onsubmit = function (e) {
             }
         ]
         window.localStorage.setItem('depression_podcasts', JSON.stringify(professionalsDataDepressionPodcasts));
-        window.location.href='../pages/home.html'
+        window.location.href='../index.html'
     }
     else if (podcastsansiedade) {
         const professionalsDataAnxiousPodcasts = [
@@ -74,7 +74,7 @@ document.querySelector('form').onsubmit = function (e) {
             }
         ]
         window.localStorage.setItem('anxious_podcasts', JSON.stringify(professionalsDataAnxiousPodcasts));
-        window.location.href='../pages/home.html'
+        window.location.href='../index.html'
     }
     else if (videodepressao) {
         const professionalsDataDepressionVideos = [
@@ -93,7 +93,7 @@ document.querySelector('form').onsubmit = function (e) {
         ]
 
         window.localStorage.setItem('depression_videos', JSON.stringify(professionalsDataDepressionVideos));
-        window.location.href='../pages/home.html'
+        window.location.href='../index.html'
     }
     else if (videoansiedade) {
         const professionalsDataAnxiousVideos = [
@@ -111,7 +111,7 @@ document.querySelector('form').onsubmit = function (e) {
             }
         ]
         window.localStorage.setItem('anxious_videos', JSON.stringify(professionalsDataAnxiousVideos));
-        window.location.href='../pages/home.html'
+        window.location.href='../index.html'
     };
     }
 
