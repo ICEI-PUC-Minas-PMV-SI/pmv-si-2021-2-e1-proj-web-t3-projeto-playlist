@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Form de Registro com validações em JS</title>
+    <link rel="stylesheet" href="../styles/pages/perfil.css">
+    <script src="../scripts/perfil.js"></script>
+    
+</head>
+
+<body >
+
+    <h1>Perfil</h1>
+    
+    <div class="corpo">
+        <div class="conteudo">
+            <form id="form" class="formulario">
+               
+                 <div class="campos">
+                    <div class="campo">
+                        <label for="nome">Nome:</label>
+                        <input type="text" class="campoTexto" id="nome">
+                    </div>
+                    <div class="campo">
+                        <label for="profissao">Profissão:</label>
+                        <input type="text" class="campoTexto" id="profissao">
+                    </div>
+                    <div class="campo">
+                        <label for="endereco">Endereço:</label>
+                        <input type="text" class="campoTexto" id="endereco">
+                    </div>
+                    <div class="campo">
+                        <label for="escolaridade">Escolaridade:</label>
+                        <input type="text" class="campoTexto" id="escolaridade">
+                    </div>
+                    <div class="campo">
+                        <label for="site">Site:</label>
+                        <input type="text" class="campoTexto" id="site">
+                    </div>
+                    <div class="campo">
+                        <label for="sobre">Nos conte um pouco sobre você:</label>
+                        <textarea class="campoTextArea" id="sobre" cols="32" rows="5"> </textarea>
+                    </div>
+                    <div class="campo">
+                        <label for="contato">Contato:</label>
+                        <input type="text" class="campoTexto" name="contato" id="contato">
+                    </div>
+                    <div class="campo">
+                        <label for="email">E-mail:</label>
+                        <input type="email" class="campoTexto" id="email">
+                    </div>
+                </div>
+
+                <div class="campos">
+                    <div class="campo">
+                        <label for="podcastsdepressao">Podcasts relacionados à depressão: (Playlist)</label>
+                        <input type="text" class="campoTexto" id="podcastsdepressao">
+                    </div>
+
+                    <div class="campo">
+                        <label for="podcastsansiedade">Podcasts relacionados à ansiedade: (Playlist)</label>
+                        <input type="text" class="campoTexto" id="podcastsansiedade">
+                    </div>
+
+                    <div class="campo">
+                        <label for="videodepressao">Vídeos relacionados à depressão: (Playlist)</label>
+                        <input type="text" class="campoTexto" id="videodepressao">
+                    </div>
+                    <div class="campo">
+                        <label for="videoansiedade">Vídeos relacionados à ansiedade: (Playlist)</label>
+                        <input type="text" class="campoTexto" id="videoansiedade">
+                    </div>
+                    <div class="campo">
+                        <label for="videoansiedade">Escolha seu avatar:</label>
+                    </div>
+                    <div class="avatares">  
+                        <label for="avatar1"> <img class="avatar-select" src="../assets/avatar1.png" alt="avatar1"> </label>
+                        <input type="radio"  id="avatar1" name="btn_radio" value="avatar1">  
+                        <label for="avatar2"> <img class="avatar-select" src="../assets/avatar2.png" alt="avatar2"> </label>        
+                        <input type="radio"  id="avatar2" name="btn_radio" value="avatar2"> 
+                        <label for="avatar3"> <img class="avatar-select" src="../assets/avatar3.png" alt="avatar3"> </label>
+                        <input type="radio"  id="avatar3" name="btn_radio" value="avatar3"> 
+                        <label for="avatar4"> <img class="avatar-select" src="../assets/avatar4.png" alt="avatar4"> </label>
+                        <input type="radio"  id="avatar4" name="btn_radio" value="avatar4"> 
+                    </div>
+                    <div class="avatares">
+                        <label for="avatar5"> <img class="avatar-select" src="../assets/avatar5.png" alt="avatar5"> </label>
+                        <input type="radio"  id="avatar5" name="btn_radio" value="avatar5"> 
+                        <label for="avatar6"> <img class="avatar-select" src="../assets/avatar6.png" alt="avatar6"> </label>
+                        <input type="radio"  id="avatar6" name="btn_radio" value="avatar6"> 
+                        <label for="avatar7"> <img class="avatar-select" src="../assets/avatar7.png" alt="avatar7"> </label>
+                        <input type="radio"  id="avatar7" name="btn_radio" value="avatar7"> 
+                        <label for="avatar8"> <img class="avatar-select" src="../assets/avatar8.png" alt="avatar8"> </label>
+                        <input type="radio"  id="avatar8" name="btn_radio" value="avatar8"> 
+                    </div>
+                    <input type="submit" value="Salvar">
+                </div>
+            </form>
+
+        </div>
+    </div> 
+    <script src="../scripts/localStorage.js"></script>  
+</body>
+
+</html>

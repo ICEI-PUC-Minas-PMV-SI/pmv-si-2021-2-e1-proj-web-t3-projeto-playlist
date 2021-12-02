@@ -47,13 +47,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Cadastrar links das playlists de músicas | ALTA | 
-|RF-002| Cadastrar links das playlists de podcasts informativos sobre depressão e ansiedade | ALTA | 
-|RF-003| Cadastrar links das playlists de vídeos informativos sobre depressão e ansiedade | ALTA |
+|RF-001| Cadastrar links das playlists de podcasts informativos sobre depressão e ansiedade | ALTA | 
+|RF-002| Cadastrar links das playlists de vídeos informativos sobre depressão e ansiedade | ALTA |
+|RF-003| Página informativa a respeito de músicas | MÉDIA | 
 |RF-004| Permitir que o profissional cadastre seu perfil | MÉDIA |
 |RF-005| Permitir que o profissional cadastre conteúdos | MÉDIA |
-|RF-006| Permitir que o profissional divulgue suas redes sociais | BAIXA |
-|RF-007| Permitir que o usuário filtre as recomendações de músicas,  podcasts e vídeos separados por categorias | BAIXA |
+|RF-006| Permitir que o profissional divulgue seu site | BAIXA |
+|RF-007| Permitir que o usuário filtre as recomendações de podcasts e vídeos separados por categorias | BAIXA |
 
 ### Requisitos não Funcionais
 
@@ -67,15 +67,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                                                                   |
-|--|---------------------------------------------------------------------------------------------|
-|01| Apenas um idioma - Português                                                                |
-|02| Não pode ser desenvolvido um módulo de backend                                              |
-|03| Restrito a 2 tipos de transtornos                                                           |
-|04| Patrocínio somente de empresas e profissionais da área da saúde                             |
-|05| Remuneração apenas com anúncios                                                             |
-|06| Não faz diagnósticos e nem tratamentos                                                      |
-|07| Conteúdo fornecido somente por profissionais qualificados da área da psiquiatria/psicologia |
+|ID| Restrição                                                                                                              |
+|--|------------------------------------------------------------------------------------------------------------------------|
+|01| Apenas um idioma - Português                                                                                           |
+|02| Não pode ser desenvolvido um módulo de back-end                                                                        |
+|03| Restrito a 2 tipos de transtornos                                                                                      |
+|04| Patrocínio somente de empresas e profissionais da área da saúde                                                        |
+|05| Remuneração apenas com anúncios                                                                                        |
+|06| Não faz diagnósticos e nem tratamentos                                                                                 |
+|07| Conteúdo fornecido somente por profissionais da área da psiquiatria/psicologia registrados no conselho profissional    |
 
 
 

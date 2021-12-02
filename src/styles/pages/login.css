@@ -1,0 +1,108 @@
+/* geral */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    border: none;
+    background-attachment: fixed;
+}
+
+body {
+    background-image: url(../../assets/roxo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.menu {
+    background-color: white;
+    color: purple;
+    justify-content: space-between;
+    border-radius: 20px;
+    display: flex;
+    width: 500px;
+    height: 59px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 80px;
+    align-items: center;
+    padding: 2px 2%;
+}
+
+.menu a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.menu a:hover {
+    transition: .4s;
+    background-color: rgb(53, 43, 117);
+    color: white;
+    display: flex;
+    border-radius: 20px;
+    padding: 20px 20px;
+
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+label {
+    color: white;
+}
+
+input {
+    width: 320px;
+    height: 30px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+button {
+    width: 80px;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-bottom: 80px;
+}
+h1 {
+    margin-bottom: 60px;
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.register-container a {
+    color: yellow;
+    text-decoration: none;
+}
+
+.register-container a:hover {
+    color: purple;
+}
+
+
+@media screen and (max-width: 600px) {
+    .menu {
+        width: 280px;
+    }
+
+    .menu a {
+        font-size: 15px;
+    }
+
+    .menu a:hover {
+        padding: 22px 12px;
+    }
+
+    input {
+        width: 220px;
+    }
+}

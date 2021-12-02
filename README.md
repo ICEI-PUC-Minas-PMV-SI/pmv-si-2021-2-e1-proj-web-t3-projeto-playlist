@@ -6,7 +6,7 @@
 
 `SEMESTRE: 2º`
 
-Sistema Web desenvolvido com o intuito de facilitar o acesso a conteúdos audiovisuais informativos sobre ansiedade e depressão, contendo recomendações de playlists musicais, de podcasts e de vídeos. A divulgação das playlists se dá, exclusivamente, por profissionais da psicologia e psiquiatria, sendo possível divulgar conteúdos tanto autorais quanto de terceiros referentes aos temas citados.
+Sistema Web desenvolvido com o intuito de facilitar o acesso a conteúdos audiovisuais informativos sobre ansiedade e depressão, contendo recomendações de playlists de podcasts e de vídeos. A divulgação das playlists se dá, exclusivamente, por profissionais da psicologia e psiquiatria, sendo possível divulgar conteúdos tanto autorais quanto de terceiros referentes aos temas citados.
 
 ## Integrantes
 

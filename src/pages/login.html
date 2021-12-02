@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login</title>
+    <link rel="stylesheet" href="../styles/pages/login.css">
+</head>
+<body>
+<header>
+    <div class="menu">
+        <div class="button">
+            <a href="../index.html"> Início </a>
+        </div>
+        <div class="button">
+            <a href="../index.html#transtornos"> Transtornos </a>
+        </div>
+        <div class="button">
+            <a href="../index.html#footer"> Sobre Nós </a>
+        </div>
+        <div class="button">
+            <a href="login.html"> Entrar </a>
+        </div>
+    </div>
+</header>
+
+
+<div class='container'>
+    <div class='card'>
+      <h1> Entrar </h1>
+
+      <div id='msgError'></div>
+
+      <div class='label-float'>
+        <label id='emailLabel' for='email'>Email</label> <br>
+        <input type='text' id='email' paceholder='' required>
+      </div>
+
+      <div class='label-float'>
+        <label id='senhaLabel' for='senha'>Senha</label> <br>
+        <input type='password' id='senha' paceholder='' required>
+      </div>
+
+      <div class='justify-center'>
+        <button onclick='entrar()'>Entrar</button>
+      </div>
+
+      <div class='register-container'>
+        <p>Problemas com login? Contate-nos em playsafe@email.com</p> <br>
+        <p> Não tem conta?<a href="cadastro.html"> Cadastre-se </a></p>
+</div>
+
+<script src="../scripts/login.js"></script>
+</body>
+</html>
