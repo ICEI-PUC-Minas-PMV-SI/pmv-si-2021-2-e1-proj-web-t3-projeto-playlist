@@ -25,54 +25,62 @@
         </div>
     </div>
 </header>
-
 <div class="corpo">
 
     <h1 class="titulo">CADASTRO</h1>
 
-    <form method="POST" class="formulario">
+    <div id="msgErro"></div>
+    <div id="msgSucesso"></div>
+
+    <form class="formulario">
 
         <div class="campo">
-            <label for="name" class="comando">Nome:</label><br>
-            <input type="text" class="campoTexto" id="name" name="nome">
+            <label for="nome" class="comando" id="labelNome">Nome:</label><br>
+            <input type="text" class="campoTexto" id="nome" maxlength="100">
         </div>
         <div class="linhaDupla">
             <div class="campo campoTextoDividido">
-                <label for="profissao" class="comando">Profissão:</label><br>
-                <input type="text" class="campoTexto" id="profissao" name="profissao">
+                <label for="profissao" class="comando" id="labelProfissao">Profissão:</label><br>
+                <select id="profissao" class="campoTexto campoSelecao">
+                    <option value=""></option>
+                    <option value="medico">Médico(a)</option>
+                    <option value="psicologo">Psicólogo(a)</option>
+                </select>
             </div>
             <div class="campo campoTextoDividido">
-                <label for="registro" class="comando">CRM/CRP:</label><br>
-                <input type="text" class="campoTexto" id="registro" name='registro'>
+                <label for="registro" class="comando" id="labelRegistro">CRM/CRP:</label><br>
+                <input type="text" class="campoTexto" id="registro" name="registro">
             </div>
         </div>
         <div class="campo">
-            <label for="motivacao" class="comando">O que te motiva a colaborar conosco?</label><br>
-            <textarea class="campoTextarea" rows="3" cols="80" id="motivacao" name="texto"></textarea>
+            <label for="motivacao" class="comando" id="labelMotivacao">O que te motiva a colaborar conosco?</label><br>
+            <textarea class="campoTextarea" rows="3" cols="80" maxlength="400" id="motivacao" name="texto"></textarea>
         </div>
         <div class="campo">
-            <label for="email" class="comando">E-mail:</label><br>
+            <label for="email" class="comando" id="labelEmail">E-mail:</label><br>
             <input type="email" class="campoTexto" id="email">
         </div>
         <div class="linhaDupla">
             <div class="campo campoTextoDividido">
-                <label for="password" class="comando">Definir senha:</label><br>
+                <label for="password" class="comando" id="labelPassword">Definir senha:</label><br>
                 <input type="password" class="campoTexto" id="password">
             </div>
             <div class="campo campoTextoDividido">
-                <label for="confirmacao" class="comando">Confirmar senha:</label><br>
-                <input type="password" class="campoTexto" id="confirmacao"><br>
+                <label for="confirmacao" class="comando" id="labelConfirmacao">Confirmar senha:</label><br>
+                <input type="password" class="campoTexto" id="confirmacao">
             </div>
         </div>
 
         <div class="botoes">
-            <input type="button" class="botao" value="Enviar">
+            <button type="button" class="botao" onclick="cadastrar()">Cadastrar</button>
         </div>
 
     </form>
 
 </div>
 
+<script src="../scripts/cadastro.js"></script>
 </body>
 
 </html>
+
