@@ -3,8 +3,8 @@
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
 Página inicial: Apresentamos pequenos textos informativos a respeito de ansiedade e depressão. A página inicial é a principal conexão com as demais páginas, há um carrossel com botões filtrando a navegação.
-![Exemplo de inicio](https://user-images.githubusercontent.com/89880127/136582103-189bd2c7-98e0-461d-9a58-56955e1d4df3.png)
-![Exemplo de inicio](https://user-images.githubusercontent.com/89880127/136582297-14b471d0-979a-43ea-b907-2af57e550f2a.png)
+![Exemplo de inicio](https://user-images.githubusercontent.com/89880127/144354825-d249913f-22a3-4af9-8d79-da6b97196944.png)
+![Exemplo de inicio](https://user-images.githubusercontent.com/89880127/144354846-61cd7ca2-5c39-4f8b-b00b-2c9b74e36148.png)
 Página de cadastro: Página para o cadastro dos profissionais da psiquiatria e psicologia dispostos a contribuir com playlists para o sistema web. É necessário inserir o registro profissional.
 ![Exemplo de cadastro](https://user-images.githubusercontent.com/89889483/136541064-1b665598-dadf-4ba6-b725-846669ee73b2.png)
 Página de login: Página de login para profissionais cadastrados terem acesso ao seu perfil e disponibilizar informações e conteúdo no sistema.
