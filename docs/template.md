@@ -8,7 +8,7 @@ Página inicial: Apresentamos pequenos textos informativos a respeito de ansieda
 Página de cadastro: Página para o cadastro dos profissionais da psiquiatria e psicologia dispostos a contribuir com playlists para o sistema web. É necessário inserir o registro profissional.
 ![Exemplo de cadastro](https://user-images.githubusercontent.com/89880127/144355320-8057d8bb-2182-4b63-8e10-98e6adba2ff2.png)
 Página de login: Página de login para profissionais cadastrados terem acesso ao seu perfil e disponibilizar informações e conteúdo no sistema.
-![Exemplo de login](https://user-images.githubusercontent.com/90360461/136487114-337e9dd0-88aa-43ce-b8e1-611005ab35d5.jpeg)
+![Exemplo de login](https://user-images.githubusercontent.com/89880127/144355776-bf522cfd-8f20-4e68-b278-d6489e0d1606.png)
 Página de perfil: Profissionais podem inserir suas playlists, além de, informações como endereço, nome, profissão e resumo sobre si. É possível escolher quais tipos de playlists pretende divulgar.
 ![Exemplo de perfil](https://user-images.githubusercontent.com/89946889/136638712-9dc0b6e9-3aac-4d84-acf8-735d9266563b.PNG)
 Página de músicas: Disponibilizamos links de sites externos que indicam músicas e trazem informações sobre os efeitos positivos que as mesmas trazem para a saúde.
