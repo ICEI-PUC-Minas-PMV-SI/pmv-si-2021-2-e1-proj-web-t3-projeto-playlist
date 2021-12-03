@@ -155,3 +155,10 @@ CT.12
 ## Responsividade
 
 ![Responsividade](https://user-images.githubusercontent.com/89880127/144529330-9574f40d-4834-44bd-be08-4ed7990a4ae4.jpg)
+
+# Avaliação
+
+Todos os cenários de testes previstos no “Plano de Testes de Software” foram concluídos com sucesso em diferentes navegadores em computadores, notebooks, aparelhos celulares e tablets. Os navegadores usados foram Mozilla Firefox, Google Chrome, Safari e Edge. 
+
+
+
