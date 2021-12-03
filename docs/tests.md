@@ -56,7 +56,7 @@ Resultados esperados:
 
 Acesso aos perfis dos profissionais com os links de vídeos de depressão previamente cadastrados.
 
-CT. 07 - Acesso à página de Músicas:
+CT.07 - Acesso à página de Músicas:
 
 1 - Conectar-se ao site usando o link: https://projeto-playlist.herokuapp.com/
 2 - Clicar no link Músicas.
@@ -65,7 +65,7 @@ Resultados esperados:
 
 Acesso aos links que redirecionam para sites que contêm playlists de músicas.
 
-CT. 08 - Acesso à seção Inscreva-se em nossa Newsletter:
+CT.08 - Acesso à seção Inscreva-se em nossa Newsletter:
 
 1 - Conectar-se ao site usando o link: https://projeto-playlist.herokuapp.com/
 
@@ -73,7 +73,7 @@ Resultados esperados:
 
 Acesso ao formulário de inscrição da newsletter.
 
-CT. 09 - Acesso à seção Sobre Nós:
+CT.09 - Acesso à seção Sobre Nós:
 
 1 - Conectar-se ao site usando o link: https://projeto-playlist.herokuapp.com/
 2 - Clicar no link Sobre Nós da Navbar.
@@ -82,7 +82,7 @@ Resultados esperados:
 
 Redirecionamento para o footer da página Home, que traz informações sobre o site.
 
-CT - 10 - Acesso à página Entrar:
+CT.10 - Acesso à página Entrar:
 
 1 - Conectar-se ao site usando o link: https://projeto-playlist.herokuapp.com/
 2 - Clicar no link Entrar da Navbar.
@@ -96,7 +96,7 @@ Redirecionamento para a página Entrar, que apresenta:
 - Acesso à página de cadastro para quem ainda não é usuário.
 
 
-CT - 11 - Acesso à página de Cadastro:
+CT.11 - Acesso à página de Cadastro:
 
 1 - Conectar-se ao site usando o link: https://projeto-playlist.herokuapp.com/
 2 - Clicar no link Entrar da Navbar.
@@ -107,7 +107,7 @@ Resultados esperados:
 Redirecionamento para a página Cadastro, que contém formulário para os profissionais se cadastrarem no site.
 
 
-CT - 12 - Acesso à página Perfil:
+CT.12 - Acesso à página Perfil:
 
 1 - Conectar-se ao site usando o link: https://projeto-playlist.herokuapp.com/
 2 - Clicar no link Entrar da Navbar.
@@ -120,17 +120,7 @@ Acesso ao formulário de Perfil, onde o profissional fala um pouco sobre si, e c
 Botão sair, para retornar à pagina inicial sem preencher o formulário de Perfil.
 
 
-CT - 13 - Validação do formulário Inscreva-se em nossa newsletter:
-
-1 - Conectar-se ao site usando o link: https://projeto-playlist.herokuapp.com/
-2 - Acesso ao formulário de inscrição da newsletter.
-3 - Preencher o formulário.
-
-Resultados esperados:
-
-Preencher todos os campos do formulário corretamente, caso contrário acusará erro.
-
-CT - 14 - Validação da responsividade do site:
+CT.13 - Validação da responsividade do site:
 
 1 - Conectar-se ao site usando o link: https://projeto-playlist.herokuapp.com utilizando computador;
 2 - Conectar-se ao site usando o link: https://projeto-playlist.herokuapp.com utilizando smartphone;
@@ -149,7 +139,7 @@ ao tablet utilizado para o acesso.
 
 Resultados obtidos:
 
-CT. 08
+CT.01
 ![Início](https://user-images.githubusercontent.com/89880127/144524251-c8d8483c-3233-4d88-85fe-7542bfb1d6e6.png)
 CT. 04
 ![Playlists](https://user-images.githubusercontent.com/89880127/144524311-2702d691-5d0a-4115-8467-c65ed03502d6.png)
