@@ -153,3 +153,5 @@ CT.12
 ![Perfil](https://user-images.githubusercontent.com/89880127/144525886-f40bc6ab-19af-42dc-b648-bc86e6076ca3.png)
 
 ## Responsividade
+
+![Responsividade](https://user-images.githubusercontent.com/89880127/144529330-9574f40d-4834-44bd-be08-4ed7990a4ae4.jpg)
