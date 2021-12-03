@@ -1,24 +1,5 @@
 # Plano de Testes de Software
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
-
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
-
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
-
-# Registro de Testes de Software
-
-
 Pré-requisitos: Computadores, tablets e smartphones com acesso à internet; navegador com versão compatível com tecnologia
 HTML5.
 
@@ -164,9 +145,11 @@ ao smartphone utilizado para o acesso.
 ao tablet utilizado para o acesso.
 
 
-## Avaliação
+# Registro de Testes de Software
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
-
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+![Início](https://user-images.githubusercontent.com/89880127/144524251-c8d8483c-3233-4d88-85fe-7542bfb1d6e6.png)
+![Playlists](https://user-images.githubusercontent.com/89880127/144524311-2702d691-5d0a-4115-8467-c65ed03502d6.png)
+![Músicas](https://user-images.githubusercontent.com/89880127/144524321-d006c9b4-4dc8-42dd-8a4d-8a7cbe2416bf.png)
+![Login](https://user-images.githubusercontent.com/89880127/144524277-b04ee33f-e9a4-4584-92cb-bc9a9115b59c.png)
+![Cadastro](https://user-images.githubusercontent.com/89880127/144524277-b04ee33f-e9a4-4584-92cb-bc9a9115b59c.png)
+![Perfil](https://user-images.githubusercontent.com/89880127/144525886-f40bc6ab-19af-42dc-b648-bc86e6076ca3.png)
