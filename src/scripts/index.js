@@ -68,6 +68,8 @@ function inscricao() {
     )
       
     localStorage.setItem("listaNewsletter", JSON.stringify(listaNewsletter));
+    nome.value = '';
+    email.value = '';
     alert( "Cadastrado com sucesso!")
    
    } else { 
