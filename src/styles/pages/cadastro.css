@@ -88,7 +88,11 @@ body {
     border-radius: 8px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 0.8rem;
+}
 
+.campoSelecao {
+    height: 33px;
+    background-color: white;
 }
 
 .campoTextoDividido {
@@ -104,6 +108,25 @@ body {
     color: white;
 
 }
+
+#msgErro {
+    text-align: center;
+    color: red;
+    background-color:white;
+    padding: 10px;
+    border-radius: 4px;
+    display: none;
+}
+
+#msgSucesso {
+    text-align: center;
+    color: rgb(52, 7, 104);
+    background-color: white;
+    padding: 10px;
+    border-radius: 4px;
+    display: none;
+}
+
 
 
 @media screen and (max-width: 600px) {

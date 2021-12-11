@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Form de Registro com validações em JS</title>
     <link rel="stylesheet" href="../styles/pages/perfil.css">
+    
     <script src="../scripts/perfil.js"></script>
     
 </head>
@@ -17,16 +18,16 @@
     
     <div class="corpo">
         <div class="conteudo">
-            <form id="form" class="formulario">
+            <form id="form" class="formulario" >
                
                  <div class="campos">
                     <div class="campo">
-                        <label for="nome">Nome:</label>
+                        <label for="nome">Nome:</label >
                         <input type="text" class="campoTexto" id="nome">
                     </div>
                     <div class="campo">
-                        <label for="profissao">Profissão:</label>
-                        <input type="text" class="campoTexto" id="profissao">
+                        <label for="profissao">Profissão:</label >
+                        <input type="text" class="campoTexto" id="profissao" >
                     </div>
                     <div class="campo">
                         <label for="endereco">Endereço:</label>
@@ -96,7 +97,8 @@
                         <label for="avatar8"> <img class="avatar-select" src="../assets/avatar8.png" alt="avatar8"> </label>
                         <input type="radio"  id="avatar8" name="btn_radio" value="avatar8"> 
                     </div>
-                    <input type="submit" value="Salvar">
+                    <input type="submit" value="Salvar" >
+                    <input type="button" value="Sair" onclick="sair()" >
                 </div>
             </form>
 
