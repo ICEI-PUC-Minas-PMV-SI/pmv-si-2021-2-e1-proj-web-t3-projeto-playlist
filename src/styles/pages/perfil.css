@@ -90,10 +90,23 @@ input[type="submit"] {
     font-weight: bold;
     border: none;
     height: 40px;
-    width: 340px;
+    width: 150px;
     border-radius: 10px;
     color: black;
     cursor: pointer;
+}
+
+input[type="button"] {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none;
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+    color: black;
+    cursor: pointer;
+    margin-top: 10px;
 }
 
 @media screen  and (max-width: 800px) {
