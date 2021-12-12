@@ -150,7 +150,7 @@ CT.10
 CT.11
 ![Cadastro](https://user-images.githubusercontent.com/89880127/144524277-b04ee33f-e9a4-4584-92cb-bc9a9115b59c.png)
 CT.12
-![Perfil](https://user-images.githubusercontent.com/89880127/144525886-f40bc6ab-19af-42dc-b648-bc86e6076ca3.png)
+![Perfil](https://user-images.githubusercontent.com/89880127/145734650-703457d6-87ec-475e-a3d6-5cb02f69d162.png)
 
 ## Responsividade
 
