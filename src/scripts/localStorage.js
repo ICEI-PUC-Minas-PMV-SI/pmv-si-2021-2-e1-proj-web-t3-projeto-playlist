@@ -14,7 +14,6 @@ document.querySelector('form').onsubmit = function (e) {
         }
 
 
-
     var podcastsdepressao = this.podcastsdepressao.value;
     var podcastsansiedade = this.podcastsansiedade.value;
     var videodepressao = this.videodepressao.value;
@@ -58,7 +57,7 @@ document.querySelector('form').onsubmit = function (e) {
         window.localStorage.setItem('depression_podcasts', JSON.stringify(professionalsDataDepressionPodcasts));
         window.location.href='../index.html'
     }
-    else if (podcastsansiedade) {
+    if (podcastsansiedade) {
         const professionalsDataAnxiousPodcasts = [
             {
                 name: this.nome.value,
@@ -69,14 +68,14 @@ document.querySelector('form').onsubmit = function (e) {
                 about: this.sobre.value,
                 phone: this.contato.value,
                 email: this.email.value,
-                playlist: this.podcastsdepressao.value,
+                playlist: this.podcastsansiedade.value,
                 avatar: avatar,
             }
         ]
         window.localStorage.setItem('anxious_podcasts', JSON.stringify(professionalsDataAnxiousPodcasts));
         window.location.href='../index.html'
     }
-    else if (videodepressao) {
+    if (videodepressao) {
         const professionalsDataDepressionVideos = [
             {
                 name: this.nome.value,
@@ -87,7 +86,7 @@ document.querySelector('form').onsubmit = function (e) {
                 about: this.sobre.value,
                 phone: this.contato.value,
                 email: this.email.value,
-                playlist: this.podcastsdepressao.value,
+                playlist: this.videodepressao.value,
                 avatar: avatar,
             }
         ]
@@ -95,7 +94,7 @@ document.querySelector('form').onsubmit = function (e) {
         window.localStorage.setItem('depression_videos', JSON.stringify(professionalsDataDepressionVideos));
         window.location.href='../index.html'
     }
-    else if (videoansiedade) {
+    if (videoansiedade) {
         const professionalsDataAnxiousVideos = [
             {
                 name: this.nome.value,
@@ -106,7 +105,7 @@ document.querySelector('form').onsubmit = function (e) {
                 about: this.sobre.value,
                 phone: this.contato.value,
                 email: this.email.value,
-                playlist: this.podcastsdepressao.value,
+                playlist: this.videoansiedade.value,
                 avatar: avatar,
             }
         ]
@@ -116,4 +115,6 @@ document.querySelector('form').onsubmit = function (e) {
     }
 
 
-
+    function sair(){
+        window.location.href ="../index.html"
+    }
