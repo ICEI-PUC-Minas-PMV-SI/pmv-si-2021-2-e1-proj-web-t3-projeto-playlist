@@ -14,6 +14,7 @@ document.querySelector('form').onsubmit = function (e) {
         }
 
 
+
     var podcastsdepressao = this.podcastsdepressao.value;
     var podcastsansiedade = this.podcastsansiedade.value;
     var videodepressao = this.videodepressao.value;
@@ -57,7 +58,7 @@ document.querySelector('form').onsubmit = function (e) {
         window.localStorage.setItem('depression_podcasts', JSON.stringify(professionalsDataDepressionPodcasts));
         window.location.href='../index.html'
     }
-    if (podcastsansiedade) {
+    else if (podcastsansiedade != "") {
         const professionalsDataAnxiousPodcasts = [
             {
                 name: this.nome.value,
