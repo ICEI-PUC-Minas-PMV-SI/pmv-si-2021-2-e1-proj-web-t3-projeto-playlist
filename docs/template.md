@@ -10,7 +10,7 @@ Página de cadastro: Página para o cadastro dos profissionais da psiquiatria e 
 Página de login: Página de login para profissionais cadastrados terem acesso ao seu perfil e disponibilizar informações e conteúdo no sistema.
 ![Exemplo de login](https://user-images.githubusercontent.com/89880127/144355776-bf522cfd-8f20-4e68-b278-d6489e0d1606.png)
 Página de perfil: Profissionais podem inserir suas playlists, além de, informações como endereço, nome, profissão e resumo sobre si. É possível escolher quais tipos de playlists pretende divulgar.
-![Exemplo de perfil](https://user-images.githubusercontent.com/89880127/145734871-aa8a10db-8372-4b20-969b-f6ff03eff719.png)
+![Exemplo de perfil](https://user-images.githubusercontent.com/89880127/145734932-dba44fa7-1000-4454-ab8d-b6aaeca7bad1.png)
 Página de músicas: Disponibilizamos links de sites externos que indicam músicas e trazem informações sobre os efeitos positivos que as mesmas trazem para a saúde.
 ![Exemplo de músicas](https://user-images.githubusercontent.com/89880127/144357016-03c24fdc-deeb-439e-bcfb-f73a005d6665.png)
 Páginas de playlists: Essas páginas apresentam os dados inseridos na página de perfil. 
