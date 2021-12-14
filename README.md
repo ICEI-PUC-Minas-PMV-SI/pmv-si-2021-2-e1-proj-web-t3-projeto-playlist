@@ -31,5 +31,5 @@ Sistema Web desenvolvido com o intuito de facilitar o acesso a conteúdos audiov
 | ETAPA 4       | 08/11/2021 - 03/12/2021   |[Programação de Funcionalidades - Javascript](docs/development.md) <br> [Testes de Software ](docs/tests.md) |
 | ETAPA 5       | 06/12/2021 - 17/12/2021   | [Apresentação](presentation/README.md) |
 
-## Link do Sistema Web (PlaySafe):
+## Link do Sistema Web (PlaySafe)
 Sistema hospedado com a plataforma em nuvem Heroku: 
