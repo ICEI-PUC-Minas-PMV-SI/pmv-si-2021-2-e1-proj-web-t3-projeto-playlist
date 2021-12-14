@@ -1,4 +1,4 @@
-# Playlists de autoajuda - 
+# Playlists de autoajuda - PlaySafe
 
 `CURSO: Sistemas de Informação`
 
